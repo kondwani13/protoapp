@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    
    
     <section class="mx-auto container bg-white pt-16">
         <div class="px-4 lg:px-0">
