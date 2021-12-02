@@ -6,7 +6,7 @@
         <div class="px-4 lg:px-0">
             <div class="flex items-center flex-col px-4">
                 <p class="uppercase text-lg text-center text-gray-600 leading-normal">Who are we?</p>
-                <h2 class="text-4xl lg:text-5xl pt-4 font-extrabold text-center leading-tight text-gray-800 lg:w-7/12 md:w-9/12">Protolog is an information echnology company.</h2>
+                <h2 class="text-4xl lg:text-5xl pt-4 font-extrabold text-center leading-tight text-gray-800 lg:w-7/12 md:w-9/12">Protolog is an information technology company.</h2>
             </div>
         </div>
     </section>
