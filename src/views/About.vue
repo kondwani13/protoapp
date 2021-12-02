@@ -32,7 +32,7 @@
                     </div>
                     <div class="md:w-9/12 lg:w-9/12 mt-1">
                         <h4 class="text-lg font-bold leading-tight text-white">Mission</h4>
-                        <p class="text-base text-white leading-normal xl:w-10/12 pt-2">To update system software and hardware components to the latest and most efficient industry standared in the country and to Introducing computer programming in schools in order to pre expose pupils to fundamental computer concepts and build a stronger base for their technology understanding.</p>
+                        <p class="text-base text-white leading-normal xl:w-10/12 pt-2">To update system software and hardware components to the latest and most efficient industry standared in the country and to Introduce computer programming in schools in order to pre expose pupils to fundamental computer concepts and build a stronger base for their technology understanding.</p>
                     </div>
                 </div>
                 <div class="flex sm:w-full md:w-1/2 lg:border-t md:border-t sm:border-t-0 lg:border-r md:border-r sm:border-r-0 border-indigo-400 pt-10 lg:pb-20">
@@ -46,7 +46,7 @@
                     </div>
                     <div class="md:w-9/12 lg:w-9/12 mt-1">
                         <h4 class="text-lg font-bold leading-tight text-white">Computer programming</h4>
-                        <p class="text-base text-white leading-normal xl:w-10/12 pt-2">Computer programming is important today because so much of our world is automated. Humans need to be able to control the interaction between people and machines. the world is being abstracted by a meryad technologies by the day, as protolog we take up the responsiblity to teach young people how the computer works.</p>
+                        <p class="text-base text-white leading-normal xl:w-10/12 pt-2">Computer programming is important today because so much of our world is automated. Humans need to be able to control the interaction between people and machines. the world is being abstracted by a myriad technologies by the day, as protolog we take up the responsiblity to teach young people how the computers work.</p>
                     </div>
                 </div>
                 <div class="flex sm:w-full md:w-1/2 lg:border-t md:border-t sm:border-t-0 border-indigo-400 pt-10 lg:pb-20">
