@@ -17,8 +17,6 @@
       <router-link to="/" class="block px-2 py-1 text-purple-400 font-semibold rounded hover:bg-gray-800" >Home</router-link>
       <router-link to="/services" class="mt-1 block px-2 py-1 text-purple-400 font-semibold rounded hover:bg-gray-800 sm:mt-0 sm:ml-2">Services</router-link>
       <router-link to="/technologies" class="mt-1 block px-2 py-1 text-purple-400 font-semibold rounded hover:bg-gray-800 sm:mt-0 sm:ml-2">Technologies</router-link>
-      <router-link to="/software" class="mt-1 block px-2 py-1 text-purple-400 font-semibold rounded hover:bg-gray-800 sm:mt-0 sm:ml-2">Software</router-link>
-      <router-link to="/web" class="mt-1 block px-2 py-1 text-purple-400 font-semibold rounded hover:bg-gray-800 sm:mt-0 sm:ml-2">Web</router-link>
       <router-link to="/faq" class="mt-1 block px-2 py-1 text-purple-400 font-semibold rounded hover:bg-gray-800 sm:mt-0 sm:ml-2">FAQ</router-link>
 
       <router-link to="/about" class="mt-1 block px-2 py-1 text-purple-400 font-semibold rounded hover:bg-gray-800 sm:mt-0 sm:ml-2">About</router-link>
