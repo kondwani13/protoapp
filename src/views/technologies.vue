@@ -27,11 +27,7 @@
                     <div class="w-20 h-20 relative mr-5">
                         <div class="absolute top-0 right-0 bg-indigo-100 rounded w-16 h-16 mt-2 mr-1"></div>
                         <div class="absolute text-white bottom-0 left-0 bg-indigo-700 rounded w-16 h-16 flex items-center justify-center mt-2 mr-3">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-                                <path stroke="none" d="M0 0h24v24H0z" />
-                                <circle cx="12" cy="12" r="9" />
-                                <path d="M9 12l2 2l4 -4" />
-                            </svg>
+                          <img src="@/images/b3.png" alt="b3">
                         </div>
                     </div>
                     <div class="w-10/12">
