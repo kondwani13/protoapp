@@ -10,12 +10,7 @@
                     <div class="w-20 h-20 relative mr-5">
                         <div class="absolute top-0 right-0 bg-indigo-100 rounded w-16 h-16 mt-2 mr-1"></div>
                         <div class="absolute text-white bottom-0 left-0 bg-indigo-700 rounded w-16 h-16 flex items-center justify-center mt-2 mr-3">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-                                <path stroke="none" d="M0 0h24v24H0z" />
-                                <rect x="3" y="4" width="18" height="4" rx="2" />
-                                <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
-                                <line x1="10" y1="12" x2="14" y2="12" />
-                            </svg>
+                            <img src="@/images/net.png" alt="net">
                         </div>
                     </div>
                     <div class="w-10/12">
@@ -27,7 +22,7 @@
                     <div class="w-20 h-20 relative mr-5">
                         <div class="absolute top-0 right-0 bg-indigo-100 rounded w-16 h-16 mt-2 mr-1"></div>
                         <div class="absolute text-white bottom-0 left-0 bg-indigo-700 rounded w-16 h-16 flex items-center justify-center mt-2 mr-3">
-                          <img src="@/images/b3.png" alt="b3">
+                          <img src="@/images/node.png" alt="node">
                         </div>
                     </div>
                     <div class="w-10/12">
@@ -39,12 +34,7 @@
                     <div class="w-20 h-20 relative mr-5">
                         <div class="absolute top-0 right-0 bg-indigo-100 rounded w-16 h-16 mt-2 mr-1"></div>
                         <div class="absolute text-white bottom-0 left-0 bg-indigo-700 rounded w-16 h-16 flex items-center justify-center mt-2 mr-3">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-                                <path stroke="none" d="M0 0h24v24H0z" />
-                                <polyline points="7 8 3 12 7 16" />
-                                <polyline points="17 8 21 12 17 16" />
-                                <line x1="14" y1="4" x2="10" y2="20" />
-                            </svg>
+                            <img src="@/images/boss.png" alt="boss">
                         </div>
                     </div>
                     <div class="w-10/12">
@@ -56,13 +46,7 @@
                     <div class="w-20 h-20 relative mr-5">
                         <div class="absolute top-0 right-0 bg-indigo-100 rounded w-16 h-16 mt-2 mr-1"></div>
                         <div class="absolute text-white bottom-0 left-0 bg-indigo-700 rounded w-16 h-16 flex items-center justify-center mt-2 mr-3">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-                                <path stroke="none" d="M0 0h24v24H0z" />
-                                <rect x="3" y="4" width="18" height="12" rx="1" />
-                                <line x1="7" y1="20" x2="17" y2="20" />
-                                <line x1="9" y1="16" x2="9" y2="20" />
-                                <line x1="15" y1="16" x2="15" y2="20" />
-                            </svg>
+                            <img src="@/images/b3.png" alt="b3">
                         </div>
                     </div>
                     <div class="w-10/12">
