@@ -18,8 +18,8 @@
                         <img src="@/images/flag.png" alt="flag">
                     </div>
                     <div class="md:w-9/12 lg:w-9/12 mt-1">
-                        <h4 class="text-lg font-bold leading-tight text-white">Ready to use components</h4>
-                        <p class="text-base text-white leading-normal xl:w-10/12 pt-2">It provides a very simple start, no need to write a lot of code, you just import it and start the primitive components and create the ones you need.</p>
+                        <h4 class="text-lg font-bold leading-tight text-white">Founded</h4>
+                        <p class="text-base text-white leading-normal xl:w-10/12 pt-2">Protocode was found in 2020 by Kondwani Sakala at an initial name of protocode, the company is now being co-directed by Kondwani Sakala and Jeanclaude Kapinga. The inspiration for the company came from a generic need for digital transformation in our country. The primo ethos behind protolog is to expand the technology ecosystem of Zambia.</p>
                     </div>
                 </div>
                 <div class="flex sm:w-full md:w-1/2 lg:pb-10 lg:pt-10">
