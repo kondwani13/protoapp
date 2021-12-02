@@ -4,7 +4,7 @@
       <section class="mx-auto container py-20">
         <div class="flex justify-center items-center flex-col">
           <div class="lg:text-6xl md:text-5xl text-4xl font-black leading-10 text-center text-gray-800 dark:text-white">
-            <h1>Tailor-made features</h1>
+            <h1>Our services</h1>
           </div>
           <div class="pt-24 grid lg:grid-cols-3 md:grid-cols-2 justify-center items-center xl:gap-y-16 gap-y-20 gap-x-16 lg:gap-x-20 xl:gap-x-0 lg:px-10 xl:px-0">
             <div class="cursor-pointer hover:shadow py-6 xl:px-4 rounded xl:w-96 w-60 flex justify-center items-center flex-col">
@@ -16,10 +16,10 @@
                 </svg>
               </div>
               <div class="text-gray-800 dark:text-white text-2xl font-semibold text-center">
-                <h2>Robust workflow</h2>
+                <h2>Computer repair</h2>
               </div>
               <div class="text-gray-600 dark:text-gray-300 mt-2 text-lg text-center">
-                <p>Workflows can help streamline and automate repeatable business tasks.</p>
+                <p>We fix all computer related problems from faulty embedded systems to broken hardware components.</p>
               </div>
             </div>
             <div class="cursor-pointer hover:shadow py-6 xl:px-4 rounded xl:w-96 w-60 flex justify-center items-center flex-col">
@@ -31,10 +31,10 @@
                 </svg>
               </div>
               <div class="text-gray-800 dark:text-white text-2xl font-semibold text-center">
-                <h2>Flexibility</h2>
+                <h2>Bios programming</h2>
               </div>
               <div class="text-gray-600 dark:text-gray-300 mt-2 text-lg text-center">
-                <p>A flexible software architecture is able to changes in usability requirements</p>
+                <p>We fix all computer machines with a broken boot order by re-programming the Bios.</p>
               </div>
             </div>
             <div class="cursor-pointer hover:shadow py-6 xl:px-4 rounded xl:w-96 w-60 flex justify-center items-center flex-col">
@@ -46,10 +46,10 @@
                 </svg>
               </div>
               <div class="text-gray-800 dark:text-white text-2xl font-semibold text-center">
-                <h2>User friendly</h2>
+                <h2>Software development</h2>
               </div>
               <div class="text-gray-600 dark:text-gray-300 mt-2 text-lg text-center">
-                <p>Good usability can improve a new software chances of successful adoption.</p>
+                <p>We deliver high performance system softwares which are customizable according to your preferance.</p>
               </div>
             </div>
             <div class="cursor-pointer hover:shadow py-6 xl:px-4 rounded xl:w-96 w-60 flex justify-center items-center flex-col">
@@ -61,10 +61,10 @@
                 </svg>
               </div>
               <div class="text-gray-800 dark:text-white text-2xl font-semibold text-center">
-                <h2>Multiple layouts</h2>
+                <h2>Web development</h2>
               </div>
               <div class="text-gray-600 dark:text-gray-300 mt-2 text-lg text-center">
-                <p>Smaller components are easier to maintain. Program can be divided</p>
+                <p>Let us help you build a modern standared website, web app, or app dashboard with our specialized web team.</p>
               </div>
             </div>
             <div class="cursor-pointer hover:shadow py-6 xl:px-4 rounded xl:w-96 w-60 flex justify-center items-center flex-col">
@@ -79,10 +79,10 @@
                 </svg>
               </div>
               <div class="text-gray-800 dark:text-white text-2xl font-semibold text-center">
-                <h2>Better components</h2>
+                <h2>Enterprise resource planning</h2>
               </div>
               <div class="text-gray-600 dark:text-gray-300 mt-2 text-lg text-center">
-                <p>Component-based design makes front-end web development faster.</p>
+                <p>Improve Your Inventory Operations with our ERP solution. Integrated, Advanced ERP Systems in trade, wholesale, distribution, merchanting & retail..</p>
               </div>
             </div>
             <div class="cursor-pointer hover:shadow py-6 xl:px-4 rounded xl:w-96 w-60 flex justify-center items-center flex-col">
@@ -103,10 +103,10 @@
                 </svg>
               </div>
               <div class="text-gray-800 dark:text-white text-2xl font-semibold text-center">
-                <h2>Well organised</h2>
+                <h2>Computer networking</h2>
               </div>
               <div class="text-gray-600 dark:text-gray-300 mt-2 text-lg text-center">
-                <p>No more running around looking for things.When you write things and plan.</p>
+                <p>Simplify the sharing and Accessibility of information within your company by installing our networking packages.</p>
               </div>
             </div>
           </div>
