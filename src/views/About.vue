@@ -5,8 +5,8 @@
     <section class="mx-auto container bg-white pt-16">
         <div class="px-4 lg:px-0">
             <div class="flex items-center flex-col px-4">
-                <p class="uppercase text-lg text-center text-gray-600 leading-normal">in few easy steps</p>
-                <h2 class="text-4xl lg:text-5xl pt-4 font-extrabold text-center leading-tight text-gray-800 lg:w-7/12 md:w-9/12">Create Beautiful Landing Pages & Web Apps in a Jiffy</h2>
+                <p class="uppercase text-lg text-center text-gray-600 leading-normal">Who are we?</p>
+                <h2 class="text-4xl lg:text-5xl pt-4 font-extrabold text-center leading-tight text-gray-800 lg:w-7/12 md:w-9/12">Protolog is an information echnology company.</h2>
             </div>
         </div>
     </section>
@@ -19,7 +19,7 @@
                     </div>
                     <div class="md:w-9/12 lg:w-9/12 mt-1">
                         <h4 class="text-lg font-bold leading-tight text-white">Founded</h4>
-                        <p class="text-base text-white leading-normal xl:w-10/12 pt-2">Protocode was found in 2020 by Kondwani Sakala at an initial name of protocode, the company is now being co-directed by Kondwani Sakala and Jeanclaude Kapinga. The inspiration for the company came from a generic need for digital transformation in our country. The primo ethos behind protolog is to expand the technology ecosystem of Zambia.</p>
+                        <p class="text-base text-white leading-normal xl:w-10/12 pt-2">Protolog was found in 2020 by Kondwani Sakala at an initial name of protocode, the company is now being co-directed by Kondwani Sakala and Jeanclaude Kapinga. The inspiration for the company came from a generic need for digital transformation in our country. The primo ethos behind protolog is to expand the technology ecosystem of Zambia.</p>
                     </div>
                 </div>
                 <div class="flex sm:w-full md:w-1/2 lg:pb-10 lg:pt-10">
@@ -31,8 +31,8 @@
                         </svg>
                     </div>
                     <div class="md:w-9/12 lg:w-9/12 mt-1">
-                        <h4 class="text-lg font-bold leading-tight text-white">Hight Quality UI you can reply on</h4>
-                        <p class="text-base text-white leading-normal xl:w-10/12 pt-2">Modify the visual appearance of your site – including colors, fonts, margins and other style-related properties – with a sophisticated style.</p>
+                        <h4 class="text-lg font-bold leading-tight text-white">Mission</h4>
+                        <p class="text-base text-white leading-normal xl:w-10/12 pt-2">To update system software and hardware components to the latest and most efficient industry standared in the country and to Introducing computer programming in schools in order to pre expose pupils to fundamental computer concepts and build a stronger base for their technology understanding.</p>
                     </div>
                 </div>
                 <div class="flex sm:w-full md:w-1/2 lg:border-t md:border-t sm:border-t-0 lg:border-r md:border-r sm:border-r-0 border-indigo-400 pt-10 lg:pb-20">
@@ -45,8 +45,8 @@
                         </svg>
                     </div>
                     <div class="md:w-9/12 lg:w-9/12 mt-1">
-                        <h4 class="text-lg font-bold leading-tight text-white">Coded by Developers for Developers</h4>
-                        <p class="text-base text-white leading-normal xl:w-10/12 pt-2">Instead of just giving you the tools to create your own site, they offer you a list of themes you can choose from. Thus a handy product.</p>
+                        <h4 class="text-lg font-bold leading-tight text-white">Computer programming</h4>
+                        <p class="text-base text-white leading-normal xl:w-10/12 pt-2">Computer programming is important today because so much of our world is automated. Humans need to be able to control the interaction between people and machines. the world is being abstracted by a meryad technologies by the day, as protolog we take up the responsiblity to teach young people how the computer works.</p>
                     </div>
                 </div>
                 <div class="flex sm:w-full md:w-1/2 lg:border-t md:border-t sm:border-t-0 border-indigo-400 pt-10 lg:pb-20">
@@ -60,8 +60,8 @@
                         </svg>
                     </div>
                     <div class="md:w-9/12 lg:w-9/12 mt-1">
-                        <h4 class="text-lg font-bold leading-tight text-white">The Last UI kit you’ll ever need</h4>
-                        <p class="text-base text-white leading-normal xl:w-10/12 pt-2">We have chosen the bright color palettes that arouse the only positive emotions. The kit that simply assures to be loved by everyone.</p>
+                        <h4 class="text-lg font-bold leading-tight text-white">Vision</h4>
+                        <p class="text-base text-white leading-normal xl:w-10/12 pt-2">To enable self sustainable technological problem solving through creative inventions and to add to the advancement of technology in Zambia. We seek to see the technology industry grow in our country to the point we start solving our own engineering problems and for us to be able to create our own embedded systems.</p>
                     </div>
                 </div>
             </div>
