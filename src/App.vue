@@ -27,7 +27,7 @@
   </header>
   <router-view/>
   
-    <footer class="pb-1">
+    <footer class="pb-0">
         <div class="w-full border-gray-300 border-t lg:w-11/12 md:w-11/12 lg:mx-auto md:mx-auto">
             <div class="container mx-auto py-12">
                 <div class="xl:flex lg:flex md:flex pt-6">
