@@ -15,12 +15,7 @@
             <div class="mx-auto container flex flex-wrap px-2 md:px-24">
                 <div class="flex sm:w-full md:w-1/2 lg:border-r md:border-r sm:border-r-0 border-indigo-400 pb-10 lg:pt-10">
                     <div class="mr-5 text-white">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-                            <path stroke="none" d="M0 0h24v24H0z" />
-                            <rect x="3" y="4" width="18" height="4" rx="2" />
-                            <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
-                            <line x1="10" y1="12" x2="14" y2="12" />
-                        </svg>
+                        <img src="@/images/flag.png" alt="flag">
                     </div>
                     <div class="md:w-9/12 lg:w-9/12 mt-1">
                         <h4 class="text-lg font-bold leading-tight text-white">Ready to use components</h4>
