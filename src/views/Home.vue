@@ -56,7 +56,7 @@
  
  
  
-<div class="md:mx-auto md:container px-4 pt-60 h-auto">
+<div class="md:mx-auto md:container px-4 pt-72 h-auto">
         <div class="pt-96 md:pt-48">
             <div class="container mx-auto">
                 <div class="flex flex-wrap items-center pb-12">
