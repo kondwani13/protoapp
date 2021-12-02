@@ -99,7 +99,7 @@
                 </div>
                 <div class="xl:flex flex-wrap justify-between xl:mt-24 mt-16 pb-6 pl-3 sm:pl-0">
                     <div class="w-11/12 xl:w-2/6 mx-auto lg:mx-0 xl:mx-0 mb-6 xl:mb-0">
-                        <p class="text-gray-800 text-base">2020 The North. All Rights Reserved</p>
+                        <p class="text-gray-800 text-base">2021 Protolog. All Rights Reserved</p>
                     </div>
                     <div class="w-11/12 xl:w-2/6 mx-auto lg:mx-0 xl:mx-0 mb-6 lg:mb-0 xl:mb-0">
                         <ul class="xl:flex lg:flex md:flex sm:flex justify-between">
