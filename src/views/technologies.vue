@@ -2,8 +2,8 @@
 <section class="max-w-8xl mx-auto container bg-white pt-16">
         <div>
             <div class="flex items-center flex-col px-4">
-                <p class="uppercase text-lg text-center text-gray-600 leading-normal">in few easy steps</p>
-                <h2 class="text-4xl lg:text-5xl font-extrabold text-center leading-tight text-gray-800 lg:w-7/12 md:w-9/12 pt-4">Create Beautiful Landing Pages & Web Apps in a Jiffy</h2>
+                <p class="uppercase text-lg text-center text-gray-600 leading-normal">Industry standard</p>
+                <h2 class="text-4xl lg:text-5xl font-extrabold text-center leading-tight text-gray-800 lg:w-7/12 md:w-9/12 pt-4">For high performance applications and for a robust Workflow.</h2>
             </div>
             <div class="mt-20 flex flex-wrap justify-between px-4">
                 <div class="flex sm:w-full md:w-5/12 pb-20">
