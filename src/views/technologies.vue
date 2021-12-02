@@ -9,7 +9,7 @@
                 <div class="flex sm:w-full md:w-5/12 pb-20">
                     <div class="w-20 h-20 relative mr-5">
                         <div class="absolute top-0 right-0 bg-indigo-100 rounded w-16 h-16 mt-2 mr-1"></div>
-                        <div class="absolute text-white bottom-0 left-0 bg-indigo-700 rounded w-16 h-16 flex items-center justify-center mt-2 mr-3">
+                        <div class="absolute text-white bottom-0 left-0 bg-white rounded w-16 h-16 flex items-center justify-center mt-2 mr-3">
                             <img src="@/images/net.png" alt="net">
                         </div>
                     </div>
@@ -21,7 +21,7 @@
                 <div class="flex sm:w-full md:w-5/12 pb-20">
                     <div class="w-20 h-20 relative mr-5">
                         <div class="absolute top-0 right-0 bg-indigo-100 rounded w-16 h-16 mt-2 mr-1"></div>
-                        <div class="absolute text-white bottom-0 left-0 bg-indigo-700 rounded w-16 h-16 flex items-center justify-center mt-2 mr-3">
+                        <div class="absolute text-white bottom-0 left-0 bg-white rounded w-16 h-16 flex items-center justify-center mt-2 mr-3">
                           <img src="@/images/node.png" alt="node">
                         </div>
                     </div>
@@ -33,7 +33,7 @@
                 <div class="flex sm:w-full md:w-5/12 pb-20">
                     <div class="w-20 h-20 relative mr-5">
                         <div class="absolute top-0 right-0 bg-indigo-100 rounded w-16 h-16 mt-2 mr-1"></div>
-                        <div class="absolute text-white bottom-0 left-0 bg-indigo-700 rounded w-16 h-16 flex items-center justify-center mt-2 mr-3">
+                        <div class="absolute text-white bottom-0 left-0 bg-white rounded w-16 h-16 flex items-center justify-center mt-2 mr-3">
                             <img src="@/images/boss.png" alt="boss">
                         </div>
                     </div>
@@ -45,7 +45,7 @@
                 <div class="flex sm:w-full md:w-5/12 pb-20">
                     <div class="w-20 h-20 relative mr-5">
                         <div class="absolute top-0 right-0 bg-indigo-100 rounded w-16 h-16 mt-2 mr-1"></div>
-                        <div class="absolute text-white bottom-0 left-0 bg-indigo-700 rounded w-16 h-16 flex items-center justify-center mt-2 mr-3">
+                        <div class="absolute text-white bottom-0 left-0 bg-white rounded w-16 h-16 flex items-center justify-center mt-2 mr-3">
                             <img src="@/images/b3.png" alt="b3">
                         </div>
                     </div>
