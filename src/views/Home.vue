@@ -63,7 +63,7 @@
                     <div class="md:w-1/2 lg:w-2/3 w-full xl:pr-20 md:pr-6">
                         <div class="py-2 text-color">
                             <h1 class="text-2xl lg:text-6xl md:leading-snug tracking-tighter f-f-l font-black">Boost adoption of product and services</h1>
-                            <h2 class="text-lg lg:text-3xl lg:leading-7 md:leading-10 f-f-r py-4 md:py-8">Here at Globex we take special care of what your organization needs instead of selling you a mass market tool that takes a one size fits all approach. I personally review each and every client business and oversee the team that tailores a solution</h2>
+                            <h2 class="text-lg lg:text-3xl lg:leading-7 md:leading-10 f-f-r py-4 md:py-8">Here at Protolog we take special care of what your organization needs instead of selling you a mass market tool that takes a one size fits all approach. I personally review each and every client business and oversee the team that tailores a solution</h2>
                             <div class="flex items-center cursor-pointer pb-4 md:pb-0">
                                 <h3 class="f-f-r text-lg lg:text-2xl font-semibold underline text-indigo-700">Lets Get Started</h3>
                                 <div class="pl-2">
@@ -120,8 +120,8 @@
                 <div class="flex flex-wrap flex-row-reverse items-center">
                     <div class="md:w-1/2 lg:w-2/3 w-full lg:pl-20 md:pl-10 sm:pl-0 pl-0">
                         <div class="py-2 text-color">
-                            <h1 class="text-2xl lg:text-6xl tracking-tighter md:leading-snug f-f-l font-black">Easily manage sales through our invoicing system</h1>
-                            <h2 class="text-lg lg:text-3xl leading-7 md:leading-10 f-f-r py-8">Here at Globex we take special care of what your organization needs instead of selling you a mass market tool that takes a one size fits all approach. I personally review each and every client business and oversee the team that tailores a solution</h2>
+                            <h1 class="text-2xl lg:text-6xl tracking-tighter md:leading-snug f-f-l font-black">Easily manage sales through Invoiceninja app </h1>
+                            <h2 class="text-lg lg:text-3xl leading-7 md:leading-10 f-f-r py-8">Easily manage all your inoices online, it's an unnecessary pain to fill out all those invoices manually at the end of the month, it also makes work easier for your clients and you can send invoices instantly.</h2>
                             <div class="flex items-center cursor-pointer pb-4 md:pb-0">
                                 <h3 class="f-f-r text-lg lg:text-2xl font-semibold underline text-indigo-700">Lets Get Started</h3>
                                 <div class="pl-2">
