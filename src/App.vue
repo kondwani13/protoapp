@@ -36,7 +36,7 @@
                     </div>
                     <div class="w-11/12 xl:w-1/6 lg:w-2/5 mx-auto lg:mx-0 xl:mx-0 pt-3 xl:flex xl:justify-end pl-3 sm:pl-0">
                         <ul>
-                            <li class="text-gray-800 font-bold text-xl mb-6">About us</li>
+                            <li class="text-white font-bold text-xl mb-6">About us</li>
                             <li class="text-base text-white hover:text-purple-600 mb-5">
                                 <a href="javascript:void(0)">About</a>
                             </li>
@@ -53,7 +53,7 @@
                     </div>
                     <div class="w-11/12 xl:w-1/6 lg:w-2/5 mx-auto lg:mx-0 xl:mx-0 pt-3 xl:flex xl:justify-end pl-3 sm:pl-0">
                         <ul>
-                            <li class="text-gray-800 font-bold text-xl mb-6">Support</li>
+                            <li class="text-white font-bold text-xl mb-6">Support</li>
                             <li class="text-base text-white hover:text-purple-600 mb-5">
                                 <a href="javascript:void(0)">Help centre</a>
                             </li>
@@ -72,7 +72,7 @@
                     </div>
                     <div class="w-11/12 xl:w-1/6 lg:w-2/5 mx-auto lg:mx-0 xl:mx-0 pt-3 xl:flex xl:justify-end pl-3 sm:pl-0">
                         <ul>
-                            <li class="text-gray-800 font-bold text-xl mb-6">Resources</li>
+                            <li class="text-white font-bold text-xl mb-6">Resources</li>
                             <li class="text-base text-white hover:text-purple-600 mb-5">
                                 <a href="javascript:void(0)">Accessibility</a>
                             </li>
@@ -93,7 +93,7 @@
                 </div>
                 <div class="xl:flex flex-wrap justify-between xl:mt-24 mt-16 pb-6 pl-3 sm:pl-0">
                     <div class="w-11/12 xl:w-2/6 mx-auto lg:mx-0 xl:mx-0 mb-6 xl:mb-0">
-                        <p class="text-gray-800 text-base">2021 Protolog. All Rights Reserved</p>
+                        <p class="text-white text-base">2021 Protolog. All Rights Reserved</p>
                     </div>
                     <div class="w-11/12 xl:w-2/6 mx-auto lg:mx-0 xl:mx-0 mb-6 lg:mb-0 xl:mb-0">
                         <ul class="xl:flex lg:flex md:flex sm:flex justify-between">
