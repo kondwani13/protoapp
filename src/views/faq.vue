@@ -30,7 +30,7 @@
                                 </div>
                                 <div class="ml-4">
                                     <p class="text-base font-medium leading-none text-gray-800">Getting Started</p>
-                                    <p class="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">Get started fast with installation and theme setup instructions</p>
+                                    <p class="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">Are you stack within the installation process of any of our sofywares? You can contact through the button at the bottom.</p>
                                 </div>
                             </div>
                         </a>
@@ -49,7 +49,7 @@
                                 </div>
                                 <div class="ml-4">
                                     <p class="text-base font-medium leading-none text-gray-800">User Account</p>
-                                    <p class="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">Get started fast with installation and theme setup instructions</p>
+                                    <p class="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">You can't remember your user account details, press forget password to reset the authentification details.</p>
                                 </div>
                             </div>
                         </a>
