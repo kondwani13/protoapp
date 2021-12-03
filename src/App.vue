@@ -53,25 +53,21 @@
                     </div>
                     <div class="w-11/12 xl:w-1/6 lg:w-2/5 mx-auto lg:mx-0 xl:mx-0 pt-3 xl:flex xl:justify-end pl-3 sm:pl-0">
                         <ul>
-                            <li class="text-gray-800 font-bold text-xl mb-6">Getting Started</li>
+                            <li class="text-gray-800 font-bold text-xl mb-6">Support</li>
                             <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
-                                <a href="javascript:void(0)">About Us</a>
+                                <a href="javascript:void(0)">Help centre</a>
                             </li>
                             <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
-                                <a href="javascript:void(0)">Guidelines and how to</a>
+                                <a href="javascript:void(0)">Guidelines</a>
                             </li>
                             <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
-                                <a href="javascript:void(0)">Quote from the best</a>
+                                <a href="javascript:void(0)">installation</a>
                             </li>
                             <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
-                                <a href="javascript:void(0)">How to start a blog</a>
+                                <a href="javascript:void(0)">Web</a>
                             </li>
-                            <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
-                                <a href="javascript:void(0)">Quote from the best</a>
-                            </li>
-                            <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
-                                <a href="javascript:void(0)">Guidelines and how to</a>
-                            </li>
+                           
+                            
                         </ul>
                     </div>
                     <div class="w-11/12 xl:w-1/6 lg:w-2/5 mx-auto lg:mx-0 xl:mx-0 pt-3 xl:flex xl:justify-end pl-3 sm:pl-0">
