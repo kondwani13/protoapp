@@ -138,28 +138,28 @@
                     </div>
                     <div role="list" aria-label="Our Team mates" class="flex flex-wrap items-center justify-around mt-2">
                         <div role="listitem" class="focus:outline-none flex flex-col items-center justify-center m-6">
-                            <img src="https://i.ibb.co/zS3y67Q/Unsplash-Avatars-0000s-0019-analise-benevides-88w-Kdd-JTwp8-unsplash-1.png" alt="Display avatar of julia john" role="img" />
-                            <p class="text-base font-semibold leading-none text-gray-800 mt-2">Julia John</p>
+                            <img src="@/images/team.png" alt="team">
+                            <p class="text-base font-semibold leading-none text-gray-800 mt-2">Lindu</p>
                             <p class="text-base leading-none text-gray-600 mt-2">Designer</p>
                         </div>
                         <div role="listitem" class="focus:outline-none flex flex-col items-center justify-center m-6">
-                            <img src="https://i.ibb.co/vJSM2Ch/Unsplash-Avatars-0004s-0005-laurence-cruz-P7yvmaj-Pvk-M-unsplash.png" alt="Display avatar of Tom Koch" role="img" />
-                            <p class="text-base font-semibold leading-none text-gray-800 mt-2">Tom Koch</p>
+                             <img src="@/images/team.png" alt="team">
+                            <p class="text-base font-semibold leading-none text-gray-800 mt-2">Rufaro</p>
                             <p class="text-base leading-none text-gray-600 mt-2">Developer</p>
                         </div>
                         <div role="listitem" class="focus:outline-none flex flex-col items-center justify-center m-6">
-                            <img src="https://i.ibb.co/0tzwY54/Unsplash-Avatars-0004s-0012-tiffany-collins-Gsy-St-BSs-Yd0-unsplash.png" alt="Display avatar of Kera Ann" role="img" />
-                            <p class="text-base font-semibold leading-none text-gray-800 mt-2">Kera Ann</p>
+                             <img src="@/images/team.png" alt="team">
+                            <p class="text-base font-semibold leading-none text-gray-800 mt-2">Davison</p>
                             <p class="text-base leading-none text-gray-600 mt-2">Designer</p>
                         </div>
                         <div role="listitem" class="focus:outline-none flex flex-col items-center justify-center m-6">
-                            <img src="https://i.ibb.co/DWMLC3n/Unsplash-Avatars-0004s-0013-sirio-w-Siku-Nio6-UY-unsplash.png" alt="Display Avatar of Glenn Jo" role="img" />
-                            <p class="text-base font-semibold leading-none text-gray-800 mt-2">Glenn Jo</p>
+                             <img src="@/images/team.png" alt="team">
+                            <p class="text-base font-semibold leading-none text-gray-800 mt-2">Kondwani</p>
                             <p class="text-base leading-none text-gray-600 mt-2">Support</p>
                         </div>
                         <div role="listitem" class="focus:outline-none flex flex-col items-center justify-center m-6">
-                            <img src="https://i.ibb.co/vkHZYXY/Unsplash-Avatars-0004s-0029-azamat-zhanisov-4yh-Hhp-AMC3-U-unsplash.png" alt="Display avatar of Shing Co" role="img" />
-                            <p class="text-base font-semibold leading-none text-gray-800 mt-2">Xhing Co</p>
+                             <img src="@/images/team.png" alt="team">
+                            <p class="text-base font-semibold leading-none text-gray-800 mt-2">Jeanclaude</p>
                             <p class="text-base leading-none text-gray-600 mt-2">Support</p>
                         </div>
                     </div>
