@@ -25,7 +25,7 @@
   </header>
   <router-view/>
   
-    <footer class="pb-0">
+    <footer class="pb-0 bg-gray-800">
         <div class="w-full border-gray-300 border-t lg:w-11/12 md:w-11/12 lg:mx-auto md:mx-auto">
             <div class="container mx-auto py-12">
                 <div class="xl:flex lg:flex md:flex pt-6">
@@ -37,16 +37,16 @@
                     <div class="w-11/12 xl:w-1/6 lg:w-2/5 mx-auto lg:mx-0 xl:mx-0 pt-3 xl:flex xl:justify-end pl-3 sm:pl-0">
                         <ul>
                             <li class="text-gray-800 font-bold text-xl mb-6">About us</li>
-                            <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
+                            <li class="text-base text-white hover:text-purple-600 mb-5">
                                 <a href="javascript:void(0)">About</a>
                             </li>
-                            <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
+                            <li class="text-base text-white hover:text-purple-600 mb-5">
                                 <a href="javascript:void(0)">Our story</a>
                             </li>
-                            <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
+                            <li class="text-base text-white hover:text-purple-600 mb-5">
                                 <a href="javascript:void(0)">Our team</a>
                             </li>
-                            <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
+                            <li class="text-base text-white hover:text-purple-600 mb-5">
                                 <a href="javascript:void(0)">Achievements</a>
                             </li>
                         </ul>
@@ -54,16 +54,16 @@
                     <div class="w-11/12 xl:w-1/6 lg:w-2/5 mx-auto lg:mx-0 xl:mx-0 pt-3 xl:flex xl:justify-end pl-3 sm:pl-0">
                         <ul>
                             <li class="text-gray-800 font-bold text-xl mb-6">Support</li>
-                            <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
+                            <li class="text-base text-white hover:text-purple-600 mb-5">
                                 <a href="javascript:void(0)">Help centre</a>
                             </li>
-                            <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
+                            <li class="text-base text-white hover:text-purple-600 mb-5">
                                 <a href="javascript:void(0)">Guidelines</a>
                             </li>
-                            <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
+                            <li class="text-base text-white hover:text-purple-600 mb-5">
                                 <a href="javascript:void(0)">installation</a>
                             </li>
-                            <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
+                            <li class="text-base text-white hover:text-purple-600 mb-5">
                                 <a href="javascript:void(0)">Web</a>
                             </li>
                            
@@ -73,19 +73,19 @@
                     <div class="w-11/12 xl:w-1/6 lg:w-2/5 mx-auto lg:mx-0 xl:mx-0 pt-3 xl:flex xl:justify-end pl-3 sm:pl-0">
                         <ul>
                             <li class="text-gray-800 font-bold text-xl mb-6">Resources</li>
-                            <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
+                            <li class="text-base text-white hover:text-purple-600 mb-5">
                                 <a href="javascript:void(0)">Accessibility</a>
                             </li>
-                            <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
+                            <li class="text-base text-white hover:text-purple-600 mb-5">
                                 <a href="javascript:void(0)">Usability</a>
                             </li>
-                            <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
+                            <li class="text-base text-white hover:text-purple-600 mb-5">
                                 <a href="javascript:void(0)">Marketplace</a>
                             </li>
-                            <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
+                            <li class="text-base text-white hover:text-purple-600 mb-5">
                                 <a href="javascript:void(0)">Design & Dev</a>
                             </li>
-                            <li class="text-base text-gray-600 hover:text-gray-700 mb-5">
+                            <li class="text-base text-white hover:text-purple-600 mb-5">
                                 <a href="javascript:void(0)">Marketplace</a>
                             </li>
                         </ul>
@@ -97,16 +97,16 @@
                     </div>
                     <div class="w-11/12 xl:w-2/6 mx-auto lg:mx-0 xl:mx-0 mb-6 lg:mb-0 xl:mb-0">
                         <ul class="xl:flex lg:flex md:flex sm:flex justify-between">
-                            <li class="text-gray-800 hover:text-gray-900 text-base mb-4 sm:mb-0">
+                            <li class="text-white hover:text-purple-600 text-base mb-4 sm:mb-0">
                                 <a href="javascript:void(0)">Terms of service</a>
                             </li>
-                            <li class="text-gray-800 hover:text-gray-900 text-base mb-4 sm:mb-0">
+                            <li class="text-white hover:text-purple-600 text-base mb-4 sm:mb-0">
                                 <a href="javascript:void(0)">Privacy Policy</a>
                             </li>
-                            <li class="text-gray-800 hover:text-gray-900 text-base mb-4 sm:mb-0">
+                            <li class="text-white hover:text-purple-600 text-base mb-4 sm:mb-0">
                                 <a href="javascript:void(0)">Security</a>
                             </li>
-                            <li class="text-gray-800 hover:text-gray-900 text-base mb-4 sm:mb-0">
+                            <li class="text-white hover:text-purple-600 text-base mb-4 sm:mb-0">
                                 <a href="javascript:void(0)">Sitemap</a>
                             </li>
                         </ul>
