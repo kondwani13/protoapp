@@ -7,7 +7,7 @@
                     <div class="md:w-1/2 lg:w-2/3 w-full xl:pr-20 md:pr-6">
                         <div class="py-2 text-color">
                             <h1 class="text-2xl lg:text-6xl md:leading-snug tracking-tighter f-f-l font-black -mt-4">Advanced Modern Digital Solutions.</h1>
-                            <h2 class="text-purple-500 text-base lg:leading-7 md:leading-10 f-f-r py-4 md:py-8">We help you update your system software and hardware components to the latest and most efficient industry standard. We provide the market with software bundles and packages which are fully customizable to preferance. We have also heavily invested in providing new designs of UX & UI for web platforms like dashboads and apps.</h2>
+                            <h2 class="text-gray-700 text-x1 lg:leading-7 md:leading-10 f-f-r py-4 md:py-8">We help you update your system software and hardware components to the latest and most efficient industry standard. We provide the market with software bundles and packages which are fully customizable to preferance. We have also heavily invested in providing new designs of UX & UI for web platforms like dashboads and apps.</h2>
                             
                         </div>
                     </div>
@@ -31,7 +31,7 @@
 </div>
 
 <div class="h-80 bg-gray-800 w-full pt-16 bottom-0">
-   <h2 class="pl-10 pb-5 font-sans font-family: ui-sans-serif font-extrabold text-base text-white">featured services</h2>
+   <h2 class="pl-10 pb-5 font-sans font-family: ui-sans-serif font-normal text-base text-white">featured services</h2>
    <h2 class="pl-10 pb-5 font-sans font-family: ui-sans-serif font-extrabold lg:text-4xl text-white">Surveillance/Security/Cabbling</h2>
    <h2 class="pl-10 text-white text-base font-sans font-family: ui-sans-serif font-normal">Secure and monitor your physical assets as well as your important confidential data with us. We provide an <br>affordable third party cloud-storage space, it is fast and provides a user friendly data accessibity interface stay safe<br></h2> 
  
