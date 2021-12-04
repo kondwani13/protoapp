@@ -1,6 +1,6 @@
 <template>
-<div class="w-full h-full bg-no-repeat bg-cover" style="background-image: url('https://i.postimg.cc/NfH4vL5L/hero.png';")>
-<div class="md:mx-auto md:container px-4">
+
+<div class="md:mx-auto md:container px-4 " style="background-image: url('https://i.postimg.cc/NfH4vL5L/hero.png';">
         <div class="pt-3 md:pt-40">
             <div class="container mx-auto">
                 <div class="flex flex-wrap items-center pb-12">
@@ -18,7 +18,7 @@
                </div>
                </div>
                </div>
-               </div>
+            
 
            
          <div class="flex justify-center w-screen pb-14 h-auto">
