@@ -1,4 +1,5 @@
 <template>
+<div class="w-full h-full bg-no-repeat bg-cover" style="background-image: url('https://i.postimg.cc/NfH4vL5L/hero.png';")>
 <div class="md:mx-auto md:container px-4">
         <div class="pt-3 md:pt-40">
             <div class="container mx-auto">
@@ -24,6 +25,7 @@
   <div class="bg-white hover:bg-purple-200 rounded-full"><img src="" alt=""> <h2 class="font-sans font-family: ui-sans-serif font-semibold p-6">Pitch Deck Designing</h2></div>
   <div class="bg-white hover:bg-purple-200 rounded-full"><img src="" alt=""> <h2 class="font-sans font-family: ui-sans-serif font-semibold p-6">Product Marketing</h2></div>
   <div class="bg-white hover:bg-purple-200 rounded-full"><img src="" alt=""> <h2 class="font-sans font-family: ui-sans-serif font-semibold p-6">Workflow Optimising</h2></div>
+</div>
 </div>
 </div>
 <div class="h-80 bg-gray-800 w-full pt-16 bottom-0">
