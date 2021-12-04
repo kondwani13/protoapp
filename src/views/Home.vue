@@ -1,17 +1,17 @@
 <template>
 
-<div class="md:mx-auto md:container px-4 -mt-4 " style="background-image: url('https://i.postimg.cc/nz4Wk8L2/hero2.png';">
+<div class="md:mx-auto md:container px-4 " style="background-image: url('https://i.postimg.cc/nz4Wk8L2/hero2.png';">
         <div class="pt-3 md:pt-40">
             <div class="container mx-auto">
                 <div class="flex flex-wrap items-center pb-12">
                     <div class="md:w-1/2 lg:w-2/3 w-full xl:pr-20 md:pr-6">
                         <div class="py-2 text-color">
-                            <h1 class="text-2xl lg:text-6xl md:leading-snug tracking-tighter f-f-l font-black">Advanced Modern Digital Solutions.</h1>
+                            <h1 class="text-2xl lg:text-6xl md:leading-snug tracking-tighter f-f-l font-black -mt-4">Advanced Modern Digital Solutions.</h1>
                             <h2 class="text-base lg:text-base lg:leading-7 md:leading-10 f-f-r py-4 md:py-8">We help you update your system software and hardware components to the latest and most efficient industry standard. We provide the market with software bundles and packages which are fully customizable to preferance. We have also heavily invested in providing new designs of UX & UI for web platforms like dashboads and apps.</h2>
                             
                         </div>
                     </div>
-                    <div class="lg:w-1/3 md:w-1/2 w-full relative h-96 flex items-end justify-center">
+                    <div class="lg:w-1/3 md:w-1/2 w-full relative h-96 flex items-end justify-center -mt-4">
                         <img src="@/images/bot3.png" alt="bot3">
                         </div>
                </div>
