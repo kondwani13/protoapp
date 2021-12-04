@@ -31,9 +31,9 @@
 </div>
 
 <div class="h-80 bg-gray-800 w-full pt-16 bottom-0">
- 
-  <h2 class="pl-10 pb-5 font-sans font-family: ui-sans-serif font-extrabold lg:text-4xl text-white">Surveillance/Security/Cabbling</h2>
-  <h2 class="pl-10 text-white text-base font-sans font-family: ui-sans-serif font-normal">Secure and monitor your physical assets as well as your important confidential data with us. We provide an <br>affordable third party cloud-storage space, it is fast and provides a user friendly data accessibity interface stay safe<br></h2> 
+   <h2 class="pl-10 pb-5 font-sans font-family: ui-sans-serif font-extrabold text-base text-white">featured services</h2>
+   <h2 class="pl-10 pb-5 font-sans font-family: ui-sans-serif font-extrabold lg:text-4xl text-white">Surveillance/Security/Cabbling</h2>
+   <h2 class="pl-10 text-white text-base font-sans font-family: ui-sans-serif font-normal">Secure and monitor your physical assets as well as your important confidential data with us. We provide an <br>affordable third party cloud-storage space, it is fast and provides a user friendly data accessibity interface stay safe<br></h2> 
  
   <div class="bg-gray-800 grid justify-around gap-7 lg:grid-cols-2 p-10" >
    <div class="bg-white rounded-md h-36">
@@ -41,17 +41,17 @@
     <p class="pl-3 pr-2 pb-4 pt-1 text-gray-800">We determine the security of you systems with advanced penetrations testing tools and create a stronger firewalls</p>
    </div>
    <div class="bg-white rounded-md h-36">
-    <h2 class="pl-3 pr-4 pt-4 font-sans font-family: ui-sans-serif font-medium text-xl text-gray-800">Cloudstorage</h2>
+    <h2 class="pl-3 pr-4 pt-4 font-sans font-family: ui-sans-serif font-medium text-xl text-gray-800">Cloud storage</h2>
     <p class="pl-3 pr-2 pb-4 pt-1 text-gray-800">Let us be accountable for storing your sensitive and confidenyial information in our third party cloudestorage servers</p>
    </div>
    
    <div class="bg-white rounded-md h-36">
-    <h2 class="pl-3 pr-4 pt-4 font-sans font-family: ui-sans-serif font-medium text-xl text-gray-800">Installations & maintainance</h2>
+    <h2 class="pl-3 pr-4 pt-4 font-sans font-family: ui-sans-serif font-medium text-xl text-gray-800">Software Installations</h2>
     <p class="pl-3 pr-2 pb-4 pt-1 text-gray-800">For a safe and stable system software installation together with free maintainace</p>   
    </div>
    
    <div class="bg-white rounded-md h-36">
-    <h2 class="pl-3 pr-4 pt-4 font-sans font-family: ui-sans-serif font-medium text-xl text-gray-800">system cleanup</h2>
+    <h2 class="pl-3 pr-4 pt-4 font-sans font-family: ui-sans-serif font-medium text-xl text-gray-800">system clean up</h2>
     <p class="pl-3 pr-2 pb-4 pt-1 text-gray-800">Systems are subjected to a lot of bags and malware which slows them down, we remove any viruses and clean up your softwares</p>
    </div>
   </div>
