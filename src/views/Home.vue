@@ -203,22 +203,22 @@
         </div>
         <div class="flex flex-wrap mt-10 xl:justify-between lg:justify-around md:justify-center justify-around xl:w-full lg:w-11/12 w-11/12 mx-auto xl:mx-0 lg:mx-auto">
             <button class="bg-white shadow mb-2 xl:mb-0 lg:mb-0 rounded flex items-center justify-center h-24 w-40 cursor-pointer border border-transparent focus:border-gray-300 focus:shadow-md focus:outline-none">
-                <img src="@/images/switch.jpg" alt="switch">
+                <img src="https://cdn.tuk.dev/assets/adidas-gray.png" alt="" />
             </button>
             <button class="bg-white shadow mb-2 xl:mb-0 rounded flex items-center justify-center h-24 w-40 cursor-pointer border border-transparent focus:border-gray-300 focus:shadow-md focus:outline-none">
-                <img src="@/images/switch.jpg" alt="switch">
+                <img src="https://cdn.tuk.dev/assets/mini-gray.png" alt="" />
             </button>
             <button class="bg-white shadow mb-2 xl:mb-0 rounded flex items-center justify-center h-24 w-40 cursor-pointer border border-transparent focus:border-gray-300 focus:shadow-md focus:outline-none">
-                <img src="@/images/switch.jpg" alt="switch">
+                <img src="https://cdn.tuk.dev/assets/channel-gray.png" alt="" />
             </button>
             <button class="bg-white shadow mb-2 xl:mb-0 rounded flex items-center justify-center h-24 w-40 cursor-pointer border border-transparent focus:border-gray-300 focus:shadow-md focus:outline-none">
-                <img src="@/images/switch.jpg" alt="switch">
+                <img src="https://cdn.tuk.dev/assets/gs1-gray.png" alt="" />
             </button>
             <button class="bg-white shadow mb-2 xl:mb-0 rounded flex items-center justify-center h-24 w-40 cursor-pointer border border-transparent focus:border-gray-300 focus:shadow-md focus:outline-none">
-                <img src="@/images/switch.jpg" alt="switch">
+                <img src="https://cdn.tuk.dev/assets/Twitter.png" alt="" />
             </button>
             <button class="bg-white shadow mb-2 xl:mb-0 rounded flex items-center justify-center h-24 w-40 cursor-pointer border border-transparent focus:border-gray-300 focus:shadow-md focus:outline-none">
-                <img src="@/images/switch.jpg" alt="switch">
+                <img src="https://cdn.tuk.dev/assets/toyota-gray.png" alt="" />
             </button>
         </div>
     </div>
