@@ -7,7 +7,7 @@
                     <div class="md:w-1/2 lg:w-2/3 w-full xl:pr-20 md:pr-6">
                         <div class="py-2 text-color">
                             <h1 class="text-2xl lg:text-6xl md:leading-snug tracking-tighter f-f-l font-black -mt-4">Advanced Modern Digital Solutions.</h1>
-                            <h2 class="text-base lg:text-base lg:leading-7 md:leading-10 f-f-r py-4 md:py-8">We help you update your system software and hardware components to the latest and most efficient industry standard. We provide the market with software bundles and packages which are fully customizable to preferance. We have also heavily invested in providing new designs of UX & UI for web platforms like dashboads and apps.</h2>
+                            <h2 class="text-purple-500 text-base lg:leading-7 md:leading-10 f-f-r py-4 md:py-8">We help you update your system software and hardware components to the latest and most efficient industry standard. We provide the market with software bundles and packages which are fully customizable to preferance. We have also heavily invested in providing new designs of UX & UI for web platforms like dashboads and apps.</h2>
                             
                         </div>
                     </div>
