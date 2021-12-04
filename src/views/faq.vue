@@ -49,7 +49,7 @@
                                 </div>
                                 <div class="ml-4">
                                     <p class="text-base font-medium leading-none text-gray-800">User Account</p>
-                                    <p class="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">You can't remember your user account details, press forget password to reset the authentification details.</p>
+                                    <p class="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">If you can't remember your user account details press forget password to reset the authentification details.</p>
                                 </div>
                             </div>
                         </a>
@@ -72,8 +72,8 @@
                                     </svg>
                                 </div>
                                 <div class="ml-4">
-                                    <p class="text-base font-medium leading-none text-gray-800">Product Features</p>
-                                    <p class="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">Get started fast with installation and theme setup instructions</p>
+                                    <p class="text-base font-medium leading-none text-gray-800">Web queries</p>
+                                    <p class="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">Be sure to contact us if you are facing any issues with any web services we created for you</p>
                                 </div>
                             </div>
                         </a>
@@ -88,7 +88,7 @@
                                 </div>
                                 <div class="ml-4">
                                     <p class="text-base font-medium leading-none text-gray-800">Customization Options</p>
-                                    <p class="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">Get started fast with installation and theme setup instructions</p>
+                                    <p class="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">customisation issues can be resolved through our web guide and chat forums</p>
                                 </div>
                             </div>
                         </a>
@@ -107,7 +107,7 @@
                                 </div>
                                 <div class="ml-4">
                                     <p class="text-base font-medium leading-none text-gray-800">Payment Gateways</p>
-                                    <p class="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">Get started fast with installation and theme setup instructions</p>
+                                    <p class="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">If you are coming across to many errors when using our payment getway, be sure to contact us.</p>
                                 </div>
                             </div>
                         </a>
