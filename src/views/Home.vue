@@ -18,6 +18,8 @@
                </div>
                </div>
                </div>
+               </div>
+
            
          <div class="flex justify-center w-screen pb-14 h-auto">
 
@@ -27,7 +29,7 @@
   <div class="bg-white hover:bg-purple-200 rounded-full"><img src="" alt=""> <h2 class="font-sans font-family: ui-sans-serif font-semibold p-6">Workflow Optimising</h2></div>
 </div>
 </div>
-</div>
+
 <div class="h-80 bg-gray-800 w-full pt-16 bottom-0">
  
   <h2 class="pl-10 pb-5 font-sans font-family: ui-sans-serif font-extrabold lg:text-4xl text-white">Surveillance/Security/Cabbling</h2>
