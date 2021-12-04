@@ -212,7 +212,7 @@
                 <img src="https://cdn.tuk.dev/assets/channel-gray.png" alt="" />
             </button>
             <button class="bg-white shadow mb-2 xl:mb-0 rounded flex items-center justify-center h-24 w-40 cursor-pointer border border-transparent focus:border-gray-300 focus:shadow-md focus:outline-none">
-                <img src="https://cdn.tuk.dev/assets/gs1-gray.png" alt="" />
+                <img src="@/images/switch.jpg" alt="switch">
             </button>
             <button class="bg-white shadow mb-2 xl:mb-0 rounded flex items-center justify-center h-24 w-40 cursor-pointer border border-transparent focus:border-gray-300 focus:shadow-md focus:outline-none">
                 <img src="https://cdn.tuk.dev/assets/Twitter.png" alt="" />
