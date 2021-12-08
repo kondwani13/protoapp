@@ -69,7 +69,7 @@
                             <h1 class="text-2xl lg:text-6xl md:leading-snug tracking-tighter f-f-l font-black">Boost adoption of product and services</h1>
                             <h2 class="text-lg lg:text-3xl lg:leading-7 md:leading-10 f-f-r py-4 md:py-8">Here at Protolog we take special care of what your organization needs instead of selling you a mass market tool that takes a one size fits all approach. I personally review each and every client business and oversee the team that tailores a solution</h2>
                             <div class="flex items-center cursor-pointer pb-4 md:pb-0">
-                                <h3 class="f-f-r text-lg lg:text-2xl font-semibold underline text-indigo-700">Lets Get Started</h3>
+                                <a href="https://play.google.com/store/apps/details?id=com.invoiceninja.app" class="f-f-r text-lg lg:text-2xl font-semibold underline text-indigo-700">Lets Get Started</a>
                                 <div class="pl-2">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
                                         <path d="M13.1719 12L8.22192 7.04999L9.63592 5.63599L15.9999 12L9.63592 18.364L8.22192 16.95L13.1719 12Z" fill="#D53F8C"></path>
