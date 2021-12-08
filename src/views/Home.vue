@@ -127,7 +127,7 @@
                             <h1 class="text-2xl lg:text-6xl tracking-tighter md:leading-snug f-f-l font-black">Easily manage sales through Invoiceninja app </h1>
                             <h2 class="text-lg lg:text-3xl leading-7 md:leading-10 f-f-r py-8">Easily manage all your inoices online, it's an unnecessary pain to fill out all those invoices manually at the end of the month, it also makes work easier for your clients and you can send invoices instantly.</h2>
                             <div class="flex items-center cursor-pointer pb-4 md:pb-0">
-                                <h3 class="f-f-r text-lg lg:text-2xl font-semibold underline text-indigo-700">Lets Get Started</h3>
+                                <a href="https://play.google.com/store/apps/details?id=com.invoiceninja.app" class="f-f-r text-lg lg:text-2xl font-semibold underline text-indigo-700">Lets Get Started</a>
                                 <div class="pl-2">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
                                         <path d="M13.1719 12L8.22192 7.04999L9.63592 5.63599L15.9999 12L9.63592 18.364L8.22192 16.95L13.1719 12Z" fill="#D53F8C"></path>
