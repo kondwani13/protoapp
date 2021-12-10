@@ -52,7 +52,7 @@
    
    <div class="bg-white rounded-md h-36">
     <h2 class="pl-3 pr-4 pt-4 font-sans font-family: ui-sans-serif font-medium text-xl text-gray-800">system clean up</h2>
-    <p class="pl-3 pr-2 pb-4 pt-1 text-gray-800">Systems are subjected to a lot of bags and malware which slows them down, we remove any viruses and clean up your softwares</p>
+    <p class="pl-3 pr-2 pb-4 pt-1 text-gray-800">Systems are subjected to a lot of bags and malware which slows them down, we remove any virus and clean up your software</p>
    </div>
   </div>
  
