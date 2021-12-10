@@ -38,7 +38,7 @@
   <div class="bg-gray-800 grid justify-around gap-7 lg:grid-cols-2 p-10" >
    <div class="bg-white rounded-md h-36">
     <h2 class="pl-3 pr-4 pt-4 font-sans font-family: ui-sans-serif font-medium text-xl text-gray-800">Cybersecurity</h2>
-    <p class="pl-3 pr-2 pb-4 pt-1 text-gray-800">We determine the security of you systems with advanced penetrations testing tools and create a stronger firewalls</p>
+    <p class="pl-3 pr-2 pb-4 pt-1 text-gray-800">We determine the security of your system with advanced penetrations testing tools and create stronger firewalls</p>
    </div>
    <div class="bg-white rounded-md h-36">
     <h2 class="pl-3 pr-4 pt-4 font-sans font-family: ui-sans-serif font-medium text-xl text-gray-800">Cloud storage</h2>
