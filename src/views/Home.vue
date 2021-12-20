@@ -182,7 +182,7 @@
                 <p class="mt-4 text-gray-500 xl:mt-6 dark:text-gray-300">
                     Product Prototyping | Building a community | Personalizing customer experience | referral marking | product blogging... 
                 </p>
-                <p class="mt-4 text-gray-700 xl:mt-6 dark:text-gray-300">Now we build your product/services website.</p>
+                <p class="mt-4 text-gray-700 xl:mt-6 dark:text-gray-300">Get started on your products & services website.</p>
                 
                 <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 md:grid-cols-2 xl:grid-cols-3">
                     <div class="p-8 space-y-3 border-2 border-blue-400 dark:border-blue-300 rounded-xl">
