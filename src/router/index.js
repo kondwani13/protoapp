@@ -28,6 +28,36 @@ const routes = [
     component: () => import("../views/web.vue"),
   },
   {
+    path: "/terms-of-service",
+    name: "terms of service",
+    component: () => import("../views/terms-of-service.vue"),
+  },
+  {
+    path: "/privacy-policy",
+    name: "privacy policy",
+    component: () => import("../views/privacy-policy.vue"),
+  },
+  {
+    path: "/contact",
+    name: "contact",
+    component: () => import("../views/contact.vue"),
+  },
+  {
+    path: "/design",
+    name: "design",
+    component: () => import("../views/design.vue"),
+  },
+  {
+    path: "/structure",
+    name: "structure",
+    component: () => import("../views/structure.vue"),
+  },
+  {
+    path: "/marketing",
+    name: "marketing",
+    component: () => import("../views/marketing.vue"),
+  },
+  {
     path: "/about",
     name: "About",
     // route level code-splitting

@@ -30,7 +30,7 @@
                                 </div>
                                 <div class="ml-4">
                                     <p class="text-base font-medium leading-none text-gray-800">Getting Started</p>
-                                    <p class="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">Are you stack within the installation process of any of our sofywares? You can contact through the button at the bottom.</p>
+                                    <p class="text-xs lg:text-sm xl:text-base lg:leading-normal text-gray-600 mt-2 2xl:w-7/12">Are you stack within the installation process of any of our softwares? You can contact through the button at the bottom.</p>
                                 </div>
                             </div>
                         </a>
@@ -150,7 +150,12 @@
                         <div role="listitem" class="focus:outline-none flex flex-col items-center justify-center m-6">
                              <img src="@/images/team.png" alt="team">
                             <p class="text-base font-semibold leading-none text-gray-800 mt-2">Davison</p>
-                            <p class="text-base leading-none text-gray-600 mt-2">Designer</p>
+                            <p class="text-base leading-none text-gray-600 mt-2">Developer</p>
+                        </div>
+                        <div role="listitem" class="focus:outline-none flex flex-col items-center justify-center m-6">
+                             <img src="@/images/team.png" alt="team">
+                            <p class="text-base font-semibold leading-none text-gray-800 mt-2">Martin</p>
+                            <p class="text-base leading-none text-gray-600 mt-2">Data Scientist</p>
                         </div>
                         <div role="listitem" class="focus:outline-none flex flex-col items-center justify-center m-6">
                              <img src="@/images/team.png" alt="team">
@@ -164,7 +169,7 @@
                         </div>
                     </div>
                     <div class="flex justify-center items-center">
-                        <button class="mt-4 md:mt-6 py-3 px-6 bg-indigo-800 hover:bg-indigo-700 rounded text-white text-center font-medium text-base focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-800">Contact us</button>
+                        <router-link to="/contact"><button class="mt-4 md:mt-6 py-3 px-6 bg-indigo-800 hover:bg-indigo-700 rounded text-white text-center font-medium text-base focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-800">Contact us</button></router-link>
                     </div>
                 </div>
             </div>

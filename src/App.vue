@@ -31,20 +31,18 @@
                 <div class="xl:flex lg:flex md:flex pt-6">
                     <div class="w-11/12 xl:w-3/6 lg:w-2/5 mx-auto lg:mx-0 xl:mx-0">
                         <div class="w-2/5">
-                            <img src="@/images/log2.png" alt="log2">
+                             <router-link to="/"><img src="@/images/log2.png" alt="log2"></router-link>
                         </div>
                     </div>
                     <div class="w-11/12 xl:w-1/6 lg:w-2/5 mx-auto lg:mx-0 xl:mx-0 pt-3 xl:flex xl:justify-end pl-3 sm:pl-0">
                         <ul>
                             <li class="text-white font-bold text-xl mb-6">About us</li>
                             <li class="text-base text-white hover:text-purple-600 mb-5">
-                                <a href="javascript:void(0)">About</a>
+                                <router-link to="/about">About</router-link>
                             </li>
+                           
                             <li class="text-base text-white hover:text-purple-600 mb-5">
-                                <a href="javascript:void(0)">Our story</a>
-                            </li>
-                            <li class="text-base text-white hover:text-purple-600 mb-5">
-                                <a href="javascript:void(0)">Our team</a>
+                                <router-link @click="$scrollToMiddle" to="/faq">Our team</router-link>
                             </li>
                             <li class="text-base text-white hover:text-purple-600 mb-5">
                                 <a href="javascript:void(0)">Achievements</a>
@@ -55,16 +53,12 @@
                         <ul>
                             <li class="text-white font-bold text-xl mb-6">Support</li>
                             <li class="text-base text-white hover:text-purple-600 mb-5">
-                                <a href="javascript:void(0)">Help centre</a>
+                                <router-link to="/faq">Help centre</router-link>
                             </li>
+                            
+                            
                             <li class="text-base text-white hover:text-purple-600 mb-5">
-                                <a href="javascript:void(0)">Guidelines</a>
-                            </li>
-                            <li class="text-base text-white hover:text-purple-600 mb-5">
-                                <a href="javascript:void(0)">installation</a>
-                            </li>
-                            <li class="text-base text-white hover:text-purple-600 mb-5">
-                                <a href="javascript:void(0)">Web</a>
+                                <router-link to="/contact">Contact</router-link>
                             </li>
                            
                             
@@ -76,18 +70,13 @@
                             <li class="text-base text-white hover:text-purple-600 mb-5">
                                 <a href="javascript:void(0)">Accessibility</a>
                             </li>
+                           
+                            
                             <li class="text-base text-white hover:text-purple-600 mb-5">
-                                <a href="javascript:void(0)">Usability</a>
+                                <router-link to="/technologies">Design & Dev</router-link>
                             </li>
-                            <li class="text-base text-white hover:text-purple-600 mb-5">
-                                <a href="javascript:void(0)">Marketplace</a>
-                            </li>
-                            <li class="text-base text-white hover:text-purple-600 mb-5">
-                                <a href="javascript:void(0)">Design & Dev</a>
-                            </li>
-                            <li class="text-base text-white hover:text-purple-600 mb-5">
-                                <a href="javascript:void(0)">Marketplace</a>
-                            </li>
+                        
+                            
                         </ul>
                     </div>
                 </div>
@@ -98,10 +87,10 @@
                     <div class="w-11/12 xl:w-2/6 mx-auto lg:mx-0 xl:mx-0 mb-6 lg:mb-0 xl:mb-0">
                         <ul class="xl:flex lg:flex md:flex sm:flex justify-between">
                             <li class="text-white hover:text-purple-600 text-base mb-4 sm:mb-0">
-                                <a href="javascript:void(0)">Terms of service</a>
+                                <router-link to="/terms-of-service">Terms of service</router-link>
                             </li>
                             <li class="text-white hover:text-purple-600 text-base mb-4 sm:mb-0">
-                                <a href="javascript:void(0)">Privacy Policy</a>
+                                <router-link to="/privacy-policy">Privacy Policy</router-link>
                             </li>
                             <li class="text-white hover:text-purple-600 text-base mb-4 sm:mb-0">
                                 <a href="javascript:void(0)">Security</a>
@@ -171,5 +160,3 @@ export default {
   },
 }
 </script>
-
-
