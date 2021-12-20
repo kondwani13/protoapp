@@ -175,6 +175,7 @@
             </div>
         </div>
     </div>
+    <div class="p-5">
     <section class="bg-white dark:bg-gray-900">
             <div class="container px-6 py-10 mx-auto">
                 <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">Let us <br> Market your <span class="underline decoration-blue-500">product</span></h1>
@@ -246,6 +247,7 @@
                 </div>
             </div>
         </section>
+        </div>
     <div class="container mx-auto pt-16">
         <div class="xl:w-full w-11/12 mx-auto">
             <h1 class="text-gray-800 font-extrabold xl:text-5xl text-3xl mb-4 text-center xl:text-left md:text-left lg:text-left">Hear From Our Customers</h1>
