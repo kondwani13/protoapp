@@ -1,5 +1,5 @@
 <template>
-<div class="p-5">
+<div>
 <h1 class="xl:text-5xl md:text-3xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-16">Terms of service</h1>
 <p class="text-base md:text-lg lg:text-xl text-center text-gray-700 font-normal xl:w-10/12 xl:mx-auto">
 These Terms of Use (“Terms”) are a legal contract between you and/or the entity or company that you represent (“you” or “your”) and Protolog LTD (“we”, “us” or “Protolog”), and govern your use of all the text, data, information, software, graphics, and other content (collectively “Content”) that we and our affiliates may make available to you.

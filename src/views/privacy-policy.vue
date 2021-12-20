@@ -1,5 +1,5 @@
 <template>
-<div class="p-5">
+<div>
 <h1 class="xl:text-5xl md:text-3xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-16">Privacy Policy</h1>
 <p class="text-base md:text-lg lg:text-xl text-center text-gray-700 font-normal xl:w-10/12 xl:mx-auto">
 This privacy policy ("policy") will help you understand how Protolog ("us", "we", "our") uses and
@@ -12,26 +12,26 @@ you to frequently visit this page
  <h1 class="xl:text-3xl md:text-2xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-16">What User Data We Collect</h1>
   <p class="text-base md:text-lg lg:text-xl text-center text-gray-700 font-normal xl:w-10/12 xl:mx-auto">
   When you visit the website, we may collect the following data:
-• Your IP address.
-• Your contact information and email address.
-• Other information such as interests and preferences.
-• Data profile regarding your online behavior on our website.
+ Your IP address.
+ Your contact information and email address.
+ Other information such as interests and preferences.
+ Data profile regarding your online behavior on our website.
   </p>
    <h1 class="xl:text-3xl md:text-2xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-16">Why We Collect Your Data</h1>
      <p class="text-base md:text-lg lg:text-xl text-center text-gray-700 font-normal xl:w-10/12 xl:mx-auto">
-   We are collecting your data for several reasons:
-• To better understand your needs.
-• To improve our services and products.
-• To send you promotional emails containing the information we think you will find
+   We are collecting your data for several reasons;
+ To better understand your needs.
+ To improve our services and products.
+ To send you promotional emails containing the information we think you will find
 interesting.
-• To contact you to fill out surveys and participate in other types of market research.
-• To customize our website according to your online behavior and personal preferences.
+ To contact you to fill out surveys and participate in other types of market research.
+ To customize our website according to your online behavior and personal preferences.
    </p>
       <h1 class="xl:text-3xl md:text-2xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-16">Safeguarding and Securing the Data</h1>
        <p class="text-base md:text-lg lg:text-xl text-center text-gray-700 font-normal xl:w-10/12 xl:mx-auto">
-      Protolog is committed to securing your data and keeping it confidential. [name] has done all in its
-power to prevent data theft, unauthorized access, and disclosure by implementing the latest
-technologies and software, which help us safeguard all the information we collect online.
+      Protolog is committed to securing your data and keeping it confidential. Protolog has done all in its
+      power to prevent data theft, unauthorized access, and disclosure by implementing the latest
+      technologies and software, which help us safeguard all the information we collect online.
      </p>
     <h1 class="xl:text-3xl md:text-2xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-16">Our Cookie Policy</h1>
  <p class="text-base md:text-lg lg:text-xl text-center text-gray-700 font-normal xl:w-10/12 xl:mx-auto">
@@ -48,15 +48,15 @@ provide a better experience for you. If you want to disable cookies, you can do 
 </p>
     <h1 class="xl:text-3xl md:text-2xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-16">Links to Other Websites</h1>
   <p class="text-base md:text-lg lg:text-xl text-center text-gray-700 font-normal xl:w-10/12 xl:mx-auto">
-  Our website contains links that lead to other websites. If you click on these links [name] is not
-held responsible for your data and privacy protection. Visiting those websites is not governed by
-this privacy policy agreement. Make sure to read the privacy policy documentation of the
-website you go to from our website.
+  Our website contains links that lead to other websites. If you click on these links is not
+  held responsible for your data and privacy protection. Visiting those websites is not governed by
+  this privacy policy agreement. Make sure to read the privacy policy documentation of the
+  website you go to from our website.
  </p>
      <h1 class="xl:text-3xl md:text-2xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-16">Restricting the Collection of your Personal Data</h1>
     <p class="text-base md:text-lg lg:text-xl text-center text-gray-700 font-normal xl:w-10/12 xl:mx-auto">
   At some point, you might wish to restrict the use and collection of your personal data. You can
-achieve this by doing the following:
+achieve this by doing the following;
 When you are filling the forms on the website, make sure to check if there is a box which you
 can leave unchecked, if you don't want to disclose your personal information.
 If you have already agreed to share your information with us, feel free to contact us via email
