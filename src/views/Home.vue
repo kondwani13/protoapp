@@ -1,5 +1,5 @@
 <template>
-
+  <body class="m-0 p-0 overflow-x:hidden">
    <div class=" bg-no-repeat w-full h-full bg-cover" style="background-image: url(https://i.postimg.cc/280RBc39/herom.png);">
             <div class="flex items-center justify-center w-full h-full ">
                 <div class="text-center">
@@ -296,6 +296,7 @@
             </button>
         </div>-->
     </div>
+    </body>
 
      
  
