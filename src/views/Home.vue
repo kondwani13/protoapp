@@ -60,7 +60,7 @@
  </div>
  
  
- 
+ <div class="p-5">
 <div class="md:mx-auto md:container px-4 pt-72 h-auto mt-8">
         <div class="pt-96 md:pt-48">
             <div class="container mx-auto">
@@ -247,6 +247,7 @@
                 </div>
             </div>
         </section>
+        </div>
         </div>
     <div class="container mx-auto pt-16">
         <div class="xl:w-full w-11/12 mx-auto">
