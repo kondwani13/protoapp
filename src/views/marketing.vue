@@ -3,7 +3,7 @@
             <h1 class="xl:text-5xl md:text-3xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-4">Designing an online environment for your products and services</h1>
             <p class="text-base md:text-lg lg:text-xl text-center text-gray-600 font-normal xl:w-10/12 xl:mx-auto">We believe digital innovation is at the heart of every business success <br>Get started on your essentials</p>
         </div>  
-    <div class="p-2">
+    <div class="p-1">
    <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 md:grid-cols-2 xl:grid-cols-3 px-16">
        
                     <div class="p-8 space-y-3 border-2 border-blue-400 dark:border-blue-300 rounded-xl">
