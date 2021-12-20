@@ -2,9 +2,9 @@
 <div>
 <h1 class="xl:text-5xl md:text-3xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-16">Terms of service</h1>
 <p class="text-base md:text-lg lg:text-xl text-center text-gray-700 font-normal xl:w-10/12 xl:mx-auto">
-These Terms of Use (“Terms”) are a legal contract between you and/or the entity or company that you represent (“you” or “your”) and Protocode LTD (“we”, “us” or “Protocode”), and govern your use of all the text, data, information, software, graphics, and other content (collectively “Content”) that we and our affiliates may make available to you.
+These Terms of Use (“Terms”) are a legal contract between you and/or the entity or company that you represent (“you” or “your”) and Protolog LTD (“we”, “us” or “Protolog”), and govern your use of all the text, data, information, software, graphics, and other content (collectively “Content”) that we and our affiliates may make available to you.
 
-Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before browsing the https://protolog.netlify.app/ website (the "Website") operated by Protocode LTD ("us", "we", “Protocode” or "our").
+Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before browsing the https://protolog.netlify.app/ website (the "Website") operated by Protolog LTD ("us", "we", “Protolog” or "our").
 
 Your access to and use of the Website is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Website.
 
@@ -21,7 +21,7 @@ We may modify, suspend or discontinue this website and/or the Content at any tim
 <h1 class="xl:text-3xl md:text-2xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-16">Copyrights</h1>
 
 <p class="text-base md:text-lg lg:text-xl text-center text-gray-700 font-normal xl:w-10/12 xl:mx-auto">
-Use of any part of or content from this website for commercial purposes of any kind is expressly prohibited. To request permission to use any of the content on this website for commercial purposes, please contact our company at protocode3@gmail.com.team.
+Use of any part of or content from this website for commercial purposes of any kind is expressly prohibited. To request permission to use any of the content on this website for commercial purposes, please contact our company at protolog3@gmail.com.
 
 Under no circumstances may any of the content on this website be displayed on either a commercial or personal website without obtaining prior permission. Unauthorized use of any information from this website may violate copyright, trademark and other laws.
 </p>
