@@ -27,9 +27,9 @@
                         <p class="pl-4 text-white text-base">protolog3@gmail.com</p>
                     </div>
                     <p class="text-lg text-white pt-10 tracking-wide">
-                        30090, Lusaka, Zambia
+                        4454, Lusaka, Zambia
                         <br />
-                        Cairo Road, Bank Square
+                        Cairo Road, 7048
                     </p>
                     <a href="javascript:void(0)">
                         <p class="text-white pt-16 font-bold tracking-wide underline">View Job Openings</p>
