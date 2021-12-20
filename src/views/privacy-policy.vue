@@ -1,5 +1,5 @@
 <template>
-<div>
+<div class="p-5">
 <h1 class="xl:text-5xl md:text-3xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-16">Privacy Policy</h1>
 <p class="text-base md:text-lg lg:text-xl text-center text-gray-700 font-normal xl:w-10/12 xl:mx-auto">
 This privacy policy ("policy") will help you understand how Protolog ("us", "we", "our") uses and
@@ -54,7 +54,7 @@ provide a better experience for you. If you want to disable cookies, you can do 
   website you go to from our website.
  </p>
      <h1 class="xl:text-3xl md:text-2xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-16">Restricting the Collection of your Personal Data</h1>
-    <p class="text-base md:text-lg lg:text-xl text-center text-gray-700 font-normal xl:w-10/12 xl:mx-auto">
+    <p class="text-base md:text-lg lg:text-xl text-center text-gray-700 font-normal xl:w-10/12 xl:mx-auto pb-9">
   At some point, you might wish to restrict the use and collection of your personal data. You can
 achieve this by doing the following;
 When you are filling the forms on the website, make sure to check if there is a box which you
