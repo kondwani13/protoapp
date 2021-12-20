@@ -11,7 +11,7 @@
                         <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">IT infrastructure implementation</h1>
 
                         <p class="text-gray-500 dark:text-gray-300">
-                      Establish the modern IT infrastructure and efficient DevOps workflows to stay on top in the competitive market. Partnering with Brocoders
+                      Establish the modern IT infrastructure and efficient DevOps workflows to stay on top in the competitive market. Partnering with Protolog
                     ensures a reliable and well-designed network infrastructure plan, the selection of a precise technology stack along with strategies for continuous 
                     infrastructure optimization, and painless implementation of a highly-customized cloud architecture.
                     </p>
