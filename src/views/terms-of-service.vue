@@ -14,7 +14,7 @@ By accessing or using the Website you agree to be bound by these Terms. If you d
 </p>
 <h1 class="xl:text-3xl md:text-2xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-16">Website owner and administrator</h1>
 <p class="text-base md:text-lg lg:text-xl text-center text-gray-700 font-normal xl:w-10/12 xl:mx-auto">
-The brocoders.com website’s (“Website”) owner and administrator is Protolog LTD
+The protolog website’s (“Website”) owner and administrator is Protolog LTD
 
 We may modify, suspend or discontinue this website and/or the Content at any time and without notifying you. We reserve the right, at our sole discretion, to modify or replace these Terms at any time.
 </p>
