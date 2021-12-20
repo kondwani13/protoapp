@@ -12,20 +12,20 @@ you to frequently visit this page
  <h1 class="xl:text-3xl md:text-2xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-16">What User Data We Collect</h1>
   <p class="text-base md:text-lg lg:text-xl text-center text-gray-700 font-normal xl:w-10/12 xl:mx-auto">
   When you visit the website, we may collect the following data:
-<br>• Your IP address.
-<br>• Your contact information and email address.
-<br>• Other information such as interests and preferences.
-<br>• Data profile regarding your online behavior on our website.
+• Your IP address.
+• Your contact information and email address.
+• Other information such as interests and preferences.
+• Data profile regarding your online behavior on our website.
   </p>
    <h1 class="xl:text-3xl md:text-2xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-16">Why We Collect Your Data</h1>
      <p class="text-base md:text-lg lg:text-xl text-center text-gray-700 font-normal xl:w-10/12 xl:mx-auto">
    We are collecting your data for several reasons:
-<br>• To better understand your needs.
-<br>• To improve our services and products.
-<br>• To send you promotional emails containing the information we think you will find
+• To better understand your needs.
+• To improve our services and products.
+• To send you promotional emails containing the information we think you will find
 interesting.
-<br>• To contact you to fill out surveys and participate in other types of market research.
-<br>• To customize our website according to your online behavior and personal preferences.
+• To contact you to fill out surveys and participate in other types of market research.
+• To customize our website according to your online behavior and personal preferences.
    </p>
       <h1 class="xl:text-3xl md:text-2xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-16">Safeguarding and Securing the Data</h1>
        <p class="text-base md:text-lg lg:text-xl text-center text-gray-700 font-normal xl:w-10/12 xl:mx-auto">
@@ -53,8 +53,7 @@ held responsible for your data and privacy protection. Visiting those websites i
 this privacy policy agreement. Make sure to read the privacy policy documentation of the
 website you go to from our website.
  </p>
-     <h1 class="xl:text-3xl md:text-2xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-16">Restricting the Collection of your Personal Data
-</h1>
+     <h1 class="xl:text-3xl md:text-2xl text-xl text-center text-gray-800 font-extrabold mb-5 pt-16">Restricting the Collection of your Personal Data</h1>
     <p class="text-base md:text-lg lg:text-xl text-center text-gray-700 font-normal xl:w-10/12 xl:mx-auto">
   At some point, you might wish to restrict the use and collection of your personal data. You can
 achieve this by doing the following:
