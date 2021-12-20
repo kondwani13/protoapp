@@ -8,11 +8,13 @@
                     <div class="flex flex-col items-center p-6 space-y-3 text-center bg-gray-100 rounded-xl dark:bg-gray-800">
                        
 
-                        <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">Copy & paste components</h1>
+                        <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">IT infrastructure implementation</h1>
 
                         <p class="text-gray-500 dark:text-gray-300">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet
-                        </p>
+                      Establish the modern IT infrastructure and efficient DevOps workflows to stay on top in the competitive market. Partnering with Brocoders
+                    ensures a reliable and well-designed network infrastructure plan, the selection of a precise technology stack along with strategies for continuous 
+                    infrastructure optimization, and painless implementation of a highly-customized cloud architecture.
+                    </p>
 
                        
                     </div>
@@ -20,11 +22,12 @@
                     <div class="flex flex-col items-center p-6 space-y-3 text-center bg-gray-100 rounded-xl dark:bg-gray-800">
                        
 
-                        <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">Zero Configrations</h1>
+                        <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">Managed DevOps</h1>
 
                         <p class="text-gray-500 dark:text-gray-300">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet
-                        </p>
+                    Progress through prototyping and deployment stages faster, automate and speed up application development, testing, and delivery with managed DevOps. As an experienced 
+                    service provider, Protolog guarantees the high quality of the CI/CD pipeline based on best practices and combines the best possible development and testing tools for continuous integration processes.
+                    </p>
 
                        
                     </div>
@@ -32,10 +35,11 @@
                     <div class="flex flex-col items-center p-6 space-y-3 text-center bg-gray-100 rounded-xl dark:bg-gray-800">
                        
 
-                        <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">Simple & clean designs</h1>
+                        <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">Prototyping Model</h1>
 
                         <p class="text-gray-500 dark:text-gray-300">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet
+                     We build our client's softwares faster by implementing our prototyping model, this is done by creating prototypes of software applications, for example, incomplete working versions 
+                     of the software program, we use this to visualize all components of the software to limit the gap of misunderstanding our client's requirements by our development team.
                         </p>
 
                       
