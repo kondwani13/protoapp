@@ -27,9 +27,9 @@
                         <p class="pl-4 text-white text-base">protolog3@gmail.com</p>
                     </div>
                     <p class="text-lg text-white pt-10 tracking-wide">
-                        4454, Lusaka, Zambia
+                        30090, Lusaka, Zambia
                         <br />
-                        Cairo Road, 7048
+                        Cairo Road, Bank Square
                     </p>
                     <a href="javascript:void(0)">
                         <p class="text-white pt-16 font-bold tracking-wide underline">View Job Openings</p>
@@ -37,36 +37,36 @@
                 </div>
             </div>
             <div class="xl:w-3/5 lg:w-3/5 bg-gray-200 h-full pt-5 pb-5 xl:pr-5 xl:pl-0 rounded-tr rounded-br">
-                <form id="contact" class="bg-white py-4 px-8 rounded-tr rounded-br">
+                <form @submit.prevent="sendEmail" class="bg-white py-4 px-8 rounded-tr rounded-br">
                     <h1 class="text-4xl text-gray-800 font-extrabold mb-6">Enter Details</h1>
                     <div class="block xl:flex w-full flex-wrap justify-between mb-6">
                         <div class="w-2/4 max-w-xs mb-6 xl:mb-0">
-                            <div class="flex flex-col">
-                                <label for="full_name" class="text-gray-800 text-sm font-semibold leading-tight tracking-normal mb-2">Full Name</label>
-                                <input required id="full_name" name="full_name" type="text" class="focus:outline-none focus:border focus:border-indigo-700 font-normal w-64 h-10 flex items-center pl-3 text-sm border-gray-300 rounded border" placeholder="" />
+                            <div  class="flex flex-col">
+                                <label class="text-gray-800 text-sm font-semibold leading-tight tracking-normal mb-2">Full Name</label>
+                                <input name="name" type="text"  v-model="name"  class="focus:outline-none focus:border focus:border-indigo-700 font-normal w-64 h-10 flex items-center pl-3 text-sm border-gray-300 rounded border" placeholder="" />
                             </div>
                         </div>
                         <div class="w-2/4 max-w-xs xl:flex xl:justify-end">
                             <div class="flex flex-col">
-                                <label for="email" class="text-gray-800 text-sm font-semibold leading-tight tracking-normal mb-2">Email</label>
-                                <input required id="email" name="email" type="email" class="focus:outline-none focus:border focus:border-indigo-700 font-normal w-64 h-10 flex items-center pl-3 text-sm border-gray-300 rounded border" placeholder="" />
+                                <label class="text-gray-800 text-sm font-semibold leading-tight tracking-normal mb-2">Email</label>
+                                <input required name="email" v-model="email" type="email" class="focus:outline-none focus:border focus:border-indigo-700 font-normal w-64 h-10 flex items-center pl-3 text-sm border-gray-300 rounded border" placeholder="" />
                             </div>
                         </div>
                     </div>
                     <div class="flex w-full flex-wrap">
                         <div class="w-2/4 max-w-xs">
                             <div class="flex flex-col">
-                                <label for="phone" class="text-gray-800 text-sm font-semibold leading-tight tracking-normal mb-2">Phone</label>
-                                <input required id="phone" name="phone" type="tel" class="focus:outline-none focus:border focus:border-indigo-700 font-normal w-64 h-10 flex items-center pl-3 text-sm border-gray-300 rounded border" placeholder="" />
+                                <label class="text-gray-800 text-sm font-semibold leading-tight tracking-normal mb-2">Phone</label>
+                                <input name="phone" type="tel" v-model="phone" class="focus:outline-none focus:border focus:border-indigo-700 font-normal w-64 h-10 flex items-center pl-3 text-sm border-gray-300 rounded border" placeholder="" />
                             </div>
                         </div>
                     </div>
                     <div class="w-full mt-6">
                         <div class="flex flex-col">
-                            <label class="text-sm font-semibold text-gray-800 mb-2" for="message">Message</label>
-                            <textarea placeholder="" name="message" class="border-gray-300 border mb-4 rounded py-2 text-sm outline-none resize-none px-3 focus:border focus:border-indigo-700" rows="8" id="message"></textarea>
+                            <label class="text-sm font-semibold text-gray-800 mb-2">Message</label>
+                            <textarea placeholder="" name="message"  v-model="message" class="border-gray-300 border mb-4 rounded py-2 text-sm outline-none resize-none px-3 focus:border focus:border-indigo-700" rows="8" ></textarea>
                         </div>
-                        <button type="submit" class="focus:outline-none bg-indigo-700 transition duration-150 ease-in-out hover:bg-indigo-600 rounded text-white px-8 py-3 text-sm leading-6">Submit</button>
+                        <button type="submit" value="Send" class="focus:outline-none bg-indigo-700 transition duration-150 ease-in-out hover:bg-indigo-600 rounded text-white px-8 py-3 text-sm leading-6">Submit</button>
                     </div>
                 </form>
             </div>
@@ -75,39 +75,34 @@
 </template>
 
 <script>
+import emailjs from 'emailjs-com';
 export default {
-    name: "ContactIndigo",
-    mounted() {
-        this.submit();
+    name: 'ContactUs',
+  data() {
+    return {
+      name: '',
+      email: '',
+      message: ''
+    }
+  },
+  methods: {
+    sendEmail(e) {
+      try {
+        emailjs.sendForm('service_94hx0xl', 'template_jve8nil', e.target, 'user_MM0WUnr2Npkovaa02b3RT', {
+          name: this.name,
+          email: this.email,
+          message: this.meessage
+        })
+        console.log('it works!!!')
+      } catch (error) {
+          console.log({error})
+      }
+      // Reset form field
+      this.name = ''
+      this.email = ''
+      this.message = ''
     },
-    methods: {
-        submit() {
-            let form = document.getElementById("contact");
-            form.addEventListener(
-                "submit",
-                function (event) {
-                    event.preventDefault();
-                    let elements = form.elements;
-                    let payload = {};
-                    for (let i = 0; i < elements.length; i++) {
-                        let item = elements.item(i);
-                        switch (item.type) {
-                            case "checkbox":
-                                payload[item.name] = item.checked;
-                                break;
-                            case "submit":
-                                break;
-                            default:
-                                payload[item.name] = item.value;
-                                break;
-                        }
-                    }
-                    // Place your API call here to submit your payload.
-                    // console.log("payload", payload);
-                },
-                true
-            );
-        },
-    },
-};
+  }
+}
+   
 </script>
