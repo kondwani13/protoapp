@@ -32,9 +32,9 @@
 </div>-->
 
 <div class="h-80 bg-gray-800 w-full lg:px-14 pt-16 bottom-0">
-   <h2 class="lg:pl-14 pl-3 pb-5 font-sans font-family: ui-sans-serif font-normal text-base text-white">featured services</h2>
-   <h2 class="lg:pl-14 pl-3 pb-5 font-sans font-family: ui-sans-serif font-extrabold lg:text-4xl text-white">Surveillance/Cybersecurity/Malware-Removal</h2>
-   <h2 class="lg:pl-14 pl-3 text-white text-base font-sans font-family: ui-sans-serif font-normal">Secure and monitor your physical assets as well as your important confidential data with us. We provide<br>affordable Surveillance services and software installation packages  <br></h2> 
+   <h2 class="lg:pl-14 pl-10 pb-5 font-sans font-family: ui-sans-serif font-normal text-base text-white">featured services</h2>
+   <h2 class="lg:pl-14 pl-10 pb-5 font-sans font-family: ui-sans-serif font-extrabold lg:text-4xl text-white">Surveillance/Cybersecurity/Malware-Removal</h2>
+   <h2 class="lg:pl-14 pl-10 text-white text-base font-sans font-family: ui-sans-serif font-normal">Secure and monitor your physical assets as well<br> as your important confidential data with us. We provide<br>affordable Surveillance services and software installation packages  <br></h2> 
  
   <div class="bg-gray-800 grid justify-around gap-7 lg:grid-cols-2 p-10 lg:p-14" >
    <div class="bg-white rounded-md h-36">
@@ -81,7 +81,7 @@
                     </div>
                     <div class="lg:w-1/3 md:w-1/2 w-full relative h-96 flex items-end justify-center">
                         <img class="absolute w-full h-full inset-0 object-cover object-center rounded-md" src="https://cdn.tuk.dev/assets/templates/prodify/ProductAdoption.png" alt="" />
-                        <div class="relative z-10 bg-white rounded shadow p-6 w-10/12 -mb-20">
+                        <div class="relative z-9 bg-white rounded shadow p-6 w-10/12 -mb-20">
                             <div class="flex items-center justify-between w-full sm:w-full mb-8">
                                 <div class="flex items-center">
                                     <div class="p-4 bg-yellow-200 rounded-md">

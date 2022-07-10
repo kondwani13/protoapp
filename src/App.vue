@@ -1,7 +1,7 @@
 <template>
 <body class="m-0 p-0 overflow-x-hidden">
  
-  <header class="pl-4"> <div class="z-10 bg-gray-900 sm:flex fixed top-0 rounded-lg   sm:justify-between sm:items-center sm:px-4 sm:py-3 ">
+  <header ref="testBlock" class="pl-4  "> <div class="z-10 bg-gray-900 sm:flex fixed top-0 rounded-lg drop-shadow-xl   sm:justify-between sm:items-center sm:px-4 sm:py-3 ">
     <div class="flex items-center justify-between px-4 py-3 sm:p-0">
       <div class="pr-8">
         <router-link to="/"><img class="h-12 px-2" src="./images/logos.png" alt="logo"></router-link>
@@ -30,13 +30,13 @@
   
   <router-view/>
   
-    <footer class="pb-0 bg-gray-800">
+    <footer class="pb-0 bg-gray-900">
         <div class="w-full border-gray-300 border-t lg:w-11/12 md:w-11/12 lg:mx-auto md:mx-auto">
             <div class="container mx-auto py-12">
                 <div class="xl:flex lg:flex md:flex pt-6">
                     <div class="w-11/12 xl:w-3/6 lg:w-2/5 mx-auto lg:mx-0 xl:mx-0">
                         <div class="w-2/5">
-                             <router-link to="/"><img src="@/images/log2.png" alt="log2"></router-link>
+                             <img @click="scrollToAnchorPoint('testBlock')" src="@/images/log2.png" alt="log2">
                         </div>
                     </div>
                     <div class="w-11/12 xl:w-1/6 lg:w-2/5 mx-auto lg:mx-0 xl:mx-0 pt-3 xl:flex xl:justify-end pl-3 sm:pl-0">
@@ -163,5 +163,11 @@ export default {
       isOpen: false,
     }
   },
+    methods: {
+        scrollToAnchorPoint(refName) {
+            const el = this.$refs[refName]
+            el.scrollIntoView({ behavior: 'smooth'})
+        }
+    }
 }
 </script>
