@@ -139,7 +139,7 @@
                     </div>
                     <div class="lg:w-1/3 md:w-1/2 w-full relative h-96 flex items-end justify-center">
                         <img class="absolute w-full h-full inset-0 object-cover object-center rounded-md" src="https://cdn.tuk.dev/assets/templates/prodify/invoicing-system.png" alt="" />
-                        <div class="relative z-10 p-4 bg-white shadow rounded mx-auto w-9/12 -mb-20">
+                        <div class="relative z-9 p-4 bg-white shadow rounded mx-auto w-9/12 -mb-20">
                             <h4 class="text-gray-800 font-normal text-md leading-4 tracking-normal mb-2">Invoice # 35RD87</h4>
                             <p class="text-gray-600 text-xs leading-3 font-normal">Assigned to: Josh Rollins</p>
                             <div class="mt-4 flex items-center">

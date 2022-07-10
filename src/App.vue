@@ -1,6 +1,7 @@
 <template>
 <body class="m-0 p-0 overflow-x-hidden">
-  <header class="z-10 bg-gray-900 sm:flex sticky top-0   sm:justify-between sm:items-center sm:px-4 sm:py-3 ">
+ 
+  <header class="pl-4"> <div class="z-10 bg-gray-900 sm:flex fixed top-0 rounded-lg   sm:justify-between sm:items-center sm:px-4 sm:py-3 ">
     <div class="flex items-center justify-between px-4 py-3 sm:p-0">
       <div class="pr-8">
         <router-link to="/"><img class="h-12 px-2" src="./images/logos.png" alt="logo"></router-link>
@@ -24,7 +25,9 @@
       <router-link to="/contact" class="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-gray-800 sm:mt-0 sm:ml-2">Contact</router-link>
 
     </nav>
+    </div>
   </header>
+  
   <router-view/>
   
     <footer class="pb-0 bg-gray-800">
