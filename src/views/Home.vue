@@ -9,10 +9,10 @@
                            <div class="p-14">
                            <div class="flex justify-center w-screen pb-20 pt-10 mt-14 h-auto">
 
-<div class="bg-gradient-to-r  from-purple-500 via-blue-500 to-pink-500 opacity-40 lg:rounded-full grid justify-around max-w-max gap-9 lg:grid-cols-3 p-6">
-  <div class="bg-white opacity-90 hover:bg-blue-200  rounded-full"><img src="" alt=""> <router-link to="/design"><h2 class="font-sans font-family: ui-sans-serif font-semibold p-6">UX & UI Design</h2></router-link></div>
-  <div class="bg-white opacity-90 hover:bg-blue-200  rounded-full"><img src="" alt=""> <router-link to="/marketing"><h2 class="font-sans font-family: ui-sans-serif font-semibold p-6">Product Marketing</h2></router-link></div>
-  <div class="bg-white opacity-90 hover:bg-blue-200  rounded-full"><img src="" alt=""> <router-link to="/structure"><h2 class="font-sans font-family: ui-sans-serif font-semibold p-6">Workflow Optimising</h2></router-link></div>
+<div class="bg-gradient-to-r  from-purple-500 via-blue-500 to-pink-500 opacity-67 lg:rounded-full grid justify-around max-w-max gap-9 lg:grid-cols-3 p-6">
+  <div class="bg-white opacity-90 hover:bg-blue-200  rounded-full"><img src="" alt=""> <router-link to="/design"><h2 class="font-sans font-family: ui-sans-serif font-bold p-6">UX & UI Design</h2></router-link></div>
+  <div class="bg-white opacity-90 hover:bg-blue-200  rounded-full"><img src="" alt=""> <router-link to="/marketing"><h2 class="font-sans font-family: ui-sans-serif font-bold p-6">Product Marketing</h2></router-link></div>
+  <div class="bg-white opacity-90 hover:bg-blue-200  rounded-full"><img src="" alt=""> <router-link to="/structure"><h2 class="font-sans font-family: ui-sans-serif font-bold p-6">Workflow Optimising</h2></router-link></div>
 </div>
 </div>
 </div>
@@ -32,9 +32,9 @@
 </div>-->
 
 <div class="h-80 bg-gray-800 w-full lg:px-14 pt-16 bottom-0">
-   <h2 class="pl-14 pb-5 font-sans font-family: ui-sans-serif font-normal text-base text-white">featured services</h2>
-   <h2 class="pl-14 pb-5 font-sans font-family: ui-sans-serif font-extrabold lg:text-4xl text-white">Surveillance/Cybersecurity/Malware-Removal</h2>
-   <h2 class="pl-14 text-white text-base font-sans font-family: ui-sans-serif font-normal">Secure and monitor your physical assets as well as your important confidential data with us. We provide<br>affordable Surveillance services and software installation packages  <br></h2> 
+   <h2 class="lg:pl-14 pl-3 pb-5 font-sans font-family: ui-sans-serif font-normal text-base text-white">featured services</h2>
+   <h2 class="lg:pl-14 pl-3 pb-5 font-sans font-family: ui-sans-serif font-extrabold lg:text-4xl text-white">Surveillance/Cybersecurity/Malware-Removal</h2>
+   <h2 class="lg:pl-14 pl-3 text-white text-base font-sans font-family: ui-sans-serif font-normal">Secure and monitor your physical assets as well as your important confidential data with us. We provide<br>affordable Surveillance services and software installation packages  <br></h2> 
  
   <div class="bg-gray-800 grid justify-around gap-7 lg:grid-cols-2 p-10 lg:p-14" >
    <div class="bg-white rounded-md h-36">
