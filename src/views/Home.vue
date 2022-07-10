@@ -3,9 +3,9 @@
    <div class=" bg-no-repeat w-full h-full bg-cover" style="background-image: url(https://i.postimg.cc/280RBc39/herom.png);">
             <div class="flex items-center justify-center w-full h-full ">
                 <div class="text-center">
-                    <h1 class="text-2xl font-semibold text-white uppercase pt-28 lg:text-3xl">Build Your <span class="text-blue-400 underline"> Brand </span>With Our</h1>
-                    <p class="text-xl font-semibold text-white uppercase pt-2 pb-10 lg:text-2xl"><span class="text-blue-400 underline">Modern</span> digital solutions.</p>
-                    <router-link to="/marketing"><button class=" px-4 py-2 mt-4 text-sm font-medium text-white uppercase transition-colors duration-200 transform bg-blue-600 rounded-md lg:w-auto hover:bg-blue-500 focus:outline-none focus:bg-blue-500">Start project</button></router-link>
+                    <h1 class="lg:text-4x1 text-2xl font-semibold text-white uppercase pt-28 lg:text-3xl">Build Your <span class="text-blue-400 underline"> Brand </span>With Our</h1>
+                    <p class="lg:text-4x1 text-xl font-semibold text-white uppercase pt-2 pb-10 lg:text-2xl"><span class="text-blue-400 underline">Modern</span> digital solutions.</p>
+                    <router-link to="/marketing"><button class=" px-4 py-2 mt-4 lg:text-base text-sm font-medium text-white uppercase transition-colors duration-200 transform bg-blue-600 rounded-md lg:w-auto hover:bg-blue-500 focus:outline-none focus:bg-blue-500">Start project</button></router-link>
                            <div class="p-14">
                            <div class="flex justify-center w-screen pb-20 pt-10 mt-14 h-auto">
 
