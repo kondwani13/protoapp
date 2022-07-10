@@ -5,7 +5,7 @@
                 <p class="uppercase text-lg text-center text-gray-600 leading-normal">Industry standard</p>
                 <h2 class="text-4xl lg:text-5xl font-extrabold text-center leading-tight text-gray-800 lg:w-7/12 md:w-9/12 pt-4">for high performance optimised applications and a robust Workflow.</h2>
             </div>
-            <div class="mt-20 flex flex-wrap justify-between px-4">
+            <div class="mt-20 flex flex-wrap justify-between px-4 lg:p-16">
                 <div class="flex sm:w-full md:w-5/12 pb-20">
                     <div class="w-20 h-20 relative mr-5">
                         <div class="absolute top-0 right-0 bg-indigo-100 rounded w-16 h-16 mt-2 mr-1"></div>

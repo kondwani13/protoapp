@@ -1,6 +1,6 @@
 <template>
 <body class="m-0 p-0 overflow-x-hidden">
-  <header class="z-10 bg-gray-900 sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-3 ">
+  <header class="z-10 bg-gray-900 sm:flex sticky top-0   sm:justify-between sm:items-center sm:px-4 sm:py-3 ">
     <div class="flex items-center justify-between px-4 py-3 sm:p-0">
       <div class="pr-8">
         <router-link to="/"><img class="h-12 px-2" src="./images/logos.png" alt="logo"></router-link>

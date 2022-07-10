@@ -31,22 +31,22 @@
 </div>
 </div>-->
 
-<div class="h-80 bg-gray-800 w-full pt-16 bottom-0">
-   <h2 class="pl-10 pb-5 font-sans font-family: ui-sans-serif font-normal text-base text-white">featured services</h2>
-   <h2 class="pl-10 pb-5 font-sans font-family: ui-sans-serif font-extrabold lg:text-4xl text-white">Surveillance/Security/Cabbling</h2>
-   <h2 class="pl-10 text-white text-base font-sans font-family: ui-sans-serif font-normal">Secure and monitor your physical assets as well as your important confidential data with us. We provide an <br>affordable third party cloud-storage space, it is fast and provides a user friendly data accessibity interface stay safe<br></h2> 
+<div class="h-80 bg-gray-800 w-full lg:px-14 pt-16 bottom-0">
+   <h2 class="pl-14 pb-5 font-sans font-family: ui-sans-serif font-normal text-base text-white">featured services</h2>
+   <h2 class="pl-14 pb-5 font-sans font-family: ui-sans-serif font-extrabold lg:text-4xl text-white">Surveillance/Cybersecurity/Malware-Removal</h2>
+   <h2 class="pl-14 text-white text-base font-sans font-family: ui-sans-serif font-normal">Secure and monitor your physical assets as well as your important confidential data with us. We provide<br>affordable Surveillance services and software installation packages  <br></h2> 
  
-  <div class="bg-gray-800 grid justify-around gap-7 lg:grid-cols-2 p-10" >
+  <div class="bg-gray-800 grid justify-around gap-7 lg:grid-cols-2 p-10 lg:p-14" >
    <div class="bg-white rounded-md h-36">
     <h2 class="pl-3 pr-4 pt-4 font-sans font-family: ui-sans-serif font-medium text-xl text-gray-800">Cybersecurity</h2>
     <p class="pl-3 pr-2 pb-4 pt-1 text-gray-800">We determine the security of your system with advanced penetration testing tools and create stronger firewalls</p>
    </div>
    <div class="bg-white rounded-md h-36">
-    <h2 class="pl-3 pr-4 pt-4 font-sans font-family: ui-sans-serif font-medium text-xl text-gray-800">Cloud storage</h2>
-    <p class="pl-3 pr-2 pb-4 pt-1 text-gray-800">Let us be accountable for storing your sensitive and confidential information in our third party cloudestorage servers</p>
+    <h2 class="pl-3 pr-4 pt-4 font-sans font-family: ui-sans-serif font-medium text-xl text-gray-800">CCTV installation</h2>
+    <p class="pl-3 pr-2 pb-4 pt-1 text-gray-800">Indoor and Outdoor Surveillance Camera Installations plus mobile integration for surveilling using smart phones. </p>
    </div>
    
-   <div class="bg-white rounded-md h-36">
+   <div class="bg-white rounded-md  h-36">
     <h2 class="pl-3 pr-4 pt-4 font-sans font-family: ui-sans-serif font-medium text-xl text-gray-800">Software Installations</h2>
     <p class="pl-3 pr-2 pb-4 pt-1 text-gray-800">For a safe and stable system software installation together with free maintainace</p>   
    </div>
@@ -60,7 +60,7 @@
  </div>
  
  
- <div class="p-5">
+ <div class="lg:p-10">
 <div class="md:mx-auto md:container px-4 pt-72 h-auto mt-8">
         <div class="pt-96 md:pt-48">
             <div class="container mx-auto">
@@ -249,7 +249,7 @@
         </section>
         </div>
         </div>
-    <div class="container mx-auto pt-16">
+    <div class="p-6 lg:p-14 container mx-auto pt-16">
         <div class="xl:w-full w-11/12 mx-auto">
             <h1 class="text-gray-800 font-extrabold xl:text-5xl text-3xl mb-4 text-center xl:text-left md:text-left lg:text-left">Hear From Our Customers</h1>
             <p class="text-xl xl:text-left md:text-left lg:text-left md:w-full text-center xl:w-2/3 lg:w-2/3 w-11/12 mx-auto xl:mx-0 lg:mx-0 text-gray-600">You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change and click save.</p>
